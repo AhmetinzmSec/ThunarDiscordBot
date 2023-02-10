@@ -1,0 +1,120 @@
+{"level":30,"time":1672153877342,"pid":9440,"hostname":"Fleet","msg":"Validating config file and environment variables"}
+{"level":30,"time":1672153878690,"pid":9440,"hostname":"Fleet","msg":"Loading commands..."}
+{"level":20,"time":1672153887211,"pid":9440,"hostname":"Fleet","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1672153887214,"pid":9440,"hostname":"Fleet","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1672153887222,"pid":9440,"hostname":"Fleet","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1672153887279,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1672153887328,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1672153887608,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1672153888023,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1672153888026,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1672153888482,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1672153888484,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1672153888487,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1672153888492,"pid":9440,"hostname":"Fleet","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1672153888512,"pid":9440,"hostname":"Fleet","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1672153888564,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1672153888567,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1672153888569,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1672153888570,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1672153888572,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1672153888574,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1672153888576,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1672153888580,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1672153888583,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1672153888586,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1672153888589,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1672153888592,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1672153888598,"pid":9440,"hostname":"Fleet","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1672153888601,"pid":9440,"hostname":"Fleet","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1672153888617,"pid":9440,"hostname":"Fleet","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1672153888622,"pid":9440,"hostname":"Fleet","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1672153888634,"pid":9440,"hostname":"Fleet","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1672153888700,"pid":9440,"hostname":"Fleet","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1672153888792,"pid":9440,"hostname":"Fleet","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1672153888844,"pid":9440,"hostname":"Fleet","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1672153888852,"pid":9440,"hostname":"Fleet","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1672153888854,"pid":9440,"hostname":"Fleet","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1672153888855,"pid":9440,"hostname":"Fleet","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1672153888856,"pid":9440,"hostname":"Fleet","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1672153888857,"pid":9440,"hostname":"Fleet","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1672153888859,"pid":9440,"hostname":"Fleet","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1672153888862,"pid":9440,"hostname":"Fleet","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1672153888866,"pid":9440,"hostname":"Fleet","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1672153888939,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1672153888940,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1672153888941,"pid":9440,"hostname":"Fleet","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1672153889064,"pid":9440,"hostname":"Fleet","msg":"Loaded 93 commands"}
+{"level":30,"time":1672153889064,"pid":9440,"hostname":"Fleet","msg":"Loaded 74 slash commands"}
+{"level":30,"time":1672153889065,"pid":9440,"hostname":"Fleet","msg":"Loading contexts..."}
+{"level":30,"time":1672153889066,"pid":9440,"hostname":"Fleet","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1672153889066,"pid":9440,"hostname":"Fleet","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1672153889067,"pid":9440,"hostname":"Fleet","msg":"Loading events..."}
+{"level":30,"time":1672153889320,"pid":9440,"hostname":"Fleet","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1672153889838,"pid":9440,"hostname":"Fleet","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1672153889838,"pid":9440,"hostname":"Fleet","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1672153891802,"pid":9440,"hostname":"Fleet","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1672153893238,"pid":9440,"hostname":"Fleet","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1672153893238,"pid":9440,"hostname":"Fleet","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1672153893448,"pid":9440,"hostname":"Fleet","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1672153893969,"pid":9440,"hostname":"Fleet","msg":"Successfully registered interactions"}
+{"level":30,"time":1672154374942,"pid":8820,"hostname":"Fleet","msg":"Validating config file and environment variables"}
+{"level":30,"time":1672154375348,"pid":8820,"hostname":"Fleet","msg":"Loading commands..."}
+{"level":20,"time":1672154377868,"pid":8820,"hostname":"Fleet","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1672154377869,"pid":8820,"hostname":"Fleet","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1672154377870,"pid":8820,"hostname":"Fleet","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1672154377894,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1672154377895,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1672154377921,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1672154377942,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1672154377943,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1672154377992,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1672154377993,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1672154377995,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1672154378014,"pid":8820,"hostname":"Fleet","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1672154378022,"pid":8820,"hostname":"Fleet","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1672154378062,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1672154378064,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1672154378065,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1672154378066,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1672154378067,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1672154378068,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1672154378069,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1672154378070,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1672154378071,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1672154378072,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1672154378074,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1672154378076,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1672154378078,"pid":8820,"hostname":"Fleet","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1672154378079,"pid":8820,"hostname":"Fleet","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1672154378086,"pid":8820,"hostname":"Fleet","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1672154378087,"pid":8820,"hostname":"Fleet","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1672154378088,"pid":8820,"hostname":"Fleet","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1672154378091,"pid":8820,"hostname":"Fleet","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1672154378092,"pid":8820,"hostname":"Fleet","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1672154378093,"pid":8820,"hostname":"Fleet","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1672154378094,"pid":8820,"hostname":"Fleet","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1672154378097,"pid":8820,"hostname":"Fleet","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1672154378097,"pid":8820,"hostname":"Fleet","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1672154378098,"pid":8820,"hostname":"Fleet","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1672154378098,"pid":8820,"hostname":"Fleet","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1672154378099,"pid":8820,"hostname":"Fleet","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1672154378099,"pid":8820,"hostname":"Fleet","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1672154378099,"pid":8820,"hostname":"Fleet","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1672154378102,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1672154378103,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1672154378104,"pid":8820,"hostname":"Fleet","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1672154378191,"pid":8820,"hostname":"Fleet","msg":"Loaded 93 commands"}
+{"level":30,"time":1672154378191,"pid":8820,"hostname":"Fleet","msg":"Loaded 74 slash commands"}
+{"level":30,"time":1672154378192,"pid":8820,"hostname":"Fleet","msg":"Loading contexts..."}
+{"level":30,"time":1672154378193,"pid":8820,"hostname":"Fleet","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1672154378193,"pid":8820,"hostname":"Fleet","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1672154378193,"pid":8820,"hostname":"Fleet","msg":"Loading events..."}
+{"level":30,"time":1672154378337,"pid":8820,"hostname":"Fleet","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1672154378771,"pid":8820,"hostname":"Fleet","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1672154378771,"pid":8820,"hostname":"Fleet","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1672154380530,"pid":8820,"hostname":"Fleet","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1672154381836,"pid":8820,"hostname":"Fleet","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1672154381836,"pid":8820,"hostname":"Fleet","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1672154382011,"pid":8820,"hostname":"Fleet","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1672154382504,"pid":8820,"hostname":"Fleet","msg":"Successfully registered interactions"}

@@ -1,0 +1,1266 @@
+{"level":30,"time":1674421323510,"pid":28314,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674421323532,"pid":28314,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674421323952,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674421323954,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674421323958,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674421323962,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674421323964,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674421323978,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674421323980,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674421323984,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674421323987,"pid":28314,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674421323988,"pid":28314,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674421324002,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674421324005,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674421324008,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674421324010,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674421324012,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674421324015,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674421324016,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674421324017,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674421324019,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674421324021,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674421324023,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674421324027,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674421324030,"pid":28314,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674421324033,"pid":28314,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674421324040,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674421324043,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674421324045,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674421324048,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674421324049,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674421324051,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674421324052,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674421324054,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674421324056,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674421324059,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674421324061,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674421324063,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674421324065,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674421324067,"pid":28314,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674421324076,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674421324077,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674421324079,"pid":28314,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674421324119,"pid":28314,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674421324119,"pid":28314,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674421324119,"pid":28314,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674421324121,"pid":28314,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674421324121,"pid":28314,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674421324121,"pid":28314,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674421324156,"pid":28314,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674421324619,"pid":28314,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674421324619,"pid":28314,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674421326272,"pid":28314,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674421327838,"pid":28314,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674421327838,"pid":28314,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674421328298,"pid":28314,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674421328661,"pid":28314,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674421666369,"pid":29174,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674421666398,"pid":29174,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674421666747,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674421666748,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674421666750,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674421666752,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674421666753,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674421666761,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674421666762,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674421666765,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674421666768,"pid":29174,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674421666768,"pid":29174,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674421666775,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674421666776,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674421666777,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674421666778,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674421666779,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674421666779,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674421666780,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674421666781,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674421666782,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674421666783,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674421666784,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674421666786,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674421666787,"pid":29174,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674421666788,"pid":29174,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674421666792,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674421666793,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674421666794,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674421666795,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674421666796,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674421666797,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674421666798,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674421666798,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674421666799,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674421666800,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674421666801,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674421666802,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674421666802,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674421666803,"pid":29174,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674421666808,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674421666809,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674421666810,"pid":29174,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674421666835,"pid":29174,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674421666836,"pid":29174,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674421666836,"pid":29174,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674421666837,"pid":29174,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674421666837,"pid":29174,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674421666837,"pid":29174,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674421666874,"pid":29174,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674421667304,"pid":29174,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674421667304,"pid":29174,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674421669013,"pid":29174,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674421670328,"pid":29174,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674421670329,"pid":29174,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674421671028,"pid":29174,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674421671840,"pid":29174,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674421725990,"pid":29302,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674421726011,"pid":29302,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674421726181,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674421726182,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674421726183,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674421726184,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674421726185,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674421726192,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674421726192,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674421726193,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674421726195,"pid":29302,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674421726196,"pid":29302,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674421726201,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674421726202,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674421726203,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674421726203,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674421726203,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674421726204,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674421726204,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674421726205,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674421726205,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674421726206,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674421726207,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674421726208,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674421726209,"pid":29302,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674421726209,"pid":29302,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674421726212,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674421726213,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674421726213,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674421726214,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674421726215,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674421726216,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674421726217,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674421726217,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674421726218,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674421726219,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674421726219,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674421726220,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674421726221,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674421726221,"pid":29302,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674421726226,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674421726226,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674421726227,"pid":29302,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674421726243,"pid":29302,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674421726243,"pid":29302,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674421726243,"pid":29302,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674421726244,"pid":29302,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674421726244,"pid":29302,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674421726244,"pid":29302,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674421726267,"pid":29302,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674421726754,"pid":29302,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674421726754,"pid":29302,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674421728322,"pid":29302,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674421729770,"pid":29302,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674421729771,"pid":29302,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674421730154,"pid":29302,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674421730252,"pid":29302,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674421771213,"pid":29429,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674421771237,"pid":29429,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674421771464,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674421771466,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674421771469,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674421771471,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674421771472,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674421771480,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674421771480,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674421771482,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674421771484,"pid":29429,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674421771486,"pid":29429,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674421771494,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674421771495,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674421771496,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674421771497,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674421771498,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674421771499,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674421771499,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674421771500,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674421771502,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674421771506,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674421771507,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674421771510,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674421771515,"pid":29429,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674421771517,"pid":29429,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674421771531,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674421771535,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674421771536,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674421771539,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674421771540,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674421771542,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674421771543,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674421771544,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674421771546,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674421771548,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674421771549,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674421771551,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674421771552,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674421771554,"pid":29429,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674421771564,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674421771567,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674421771569,"pid":29429,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674421771623,"pid":29429,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674421771623,"pid":29429,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674421771623,"pid":29429,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674421771627,"pid":29429,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674421771628,"pid":29429,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674421771628,"pid":29429,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674421771710,"pid":29429,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674421772216,"pid":29429,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674421772216,"pid":29429,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674421775035,"pid":29429,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674421777522,"pid":29429,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674421777522,"pid":29429,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674421777827,"pid":29429,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674421778545,"pid":29429,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674421859055,"pid":29623,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674421859077,"pid":29623,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674421859281,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674421859281,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674421859283,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674421859285,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674421859287,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674421859297,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674421859297,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674421859300,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674421859302,"pid":29623,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674421859302,"pid":29623,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674421859311,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674421859312,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674421859313,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674421859314,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674421859315,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674421859315,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674421859316,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674421859317,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674421859318,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674421859318,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674421859319,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674421859320,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674421859322,"pid":29623,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674421859323,"pid":29623,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674421859328,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674421859329,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674421859331,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674421859333,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674421859334,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674421859335,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674421859335,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674421859336,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674421859337,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674421859338,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674421859338,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674421859339,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674421859340,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674421859341,"pid":29623,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674421859346,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674421859346,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674421859347,"pid":29623,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674421859366,"pid":29623,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674421859366,"pid":29623,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674421859366,"pid":29623,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674421859367,"pid":29623,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674421859368,"pid":29623,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674421859368,"pid":29623,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674421859395,"pid":29623,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674421859817,"pid":29623,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674421859817,"pid":29623,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674421861496,"pid":29623,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674421862784,"pid":29623,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674421862784,"pid":29623,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674421863244,"pid":29623,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674421863388,"pid":29623,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674421929866,"pid":29825,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674421929892,"pid":29825,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674421930115,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674421930116,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674421930118,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674421930119,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674421930120,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674421930128,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674421930129,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674421930131,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674421930134,"pid":29825,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674421930135,"pid":29825,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674421930145,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674421930146,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674421930148,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674421930149,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674421930151,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674421930152,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674421930153,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674421930154,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674421930155,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674421930158,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674421930162,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674421930163,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674421930166,"pid":29825,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674421930167,"pid":29825,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674421930171,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674421930173,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674421930174,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674421930175,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674421930176,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674421930177,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674421930178,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674421930180,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674421930181,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674421930182,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674421930184,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674421930185,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674421930186,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674421930187,"pid":29825,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674421930194,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674421930195,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674421930195,"pid":29825,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674421930212,"pid":29825,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674421930212,"pid":29825,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674421930212,"pid":29825,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674421930213,"pid":29825,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674421930214,"pid":29825,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674421930214,"pid":29825,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674421930242,"pid":29825,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674421930675,"pid":29825,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674421930675,"pid":29825,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674421932226,"pid":29825,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674421933552,"pid":29825,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674421933552,"pid":29825,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674421934437,"pid":29825,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674421934950,"pid":29825,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1674421939714,"pid":29825,"hostname":"picadro-sec","err":{"type":"ValidationError","message":"Expected the value to be an object, but received string instead","stack":"Error: Expected the value to be an object, but received string instead\n    at ObjectValidator.handle (/home/picadro/Documents/Projects/JavaScript/Thunar v2/node_modules/@sapphire/shapeshift/dist/index.js:1154:25)\n    at ObjectValidator.parse (/home/picadro/Documents/Projects/JavaScript/Thunar v2/node_modules/@sapphire/shapeshift/dist/index.js:106:88)\n    at EmbedBuilder.setAuthor (/home/picadro/Documents/Projects/JavaScript/Thunar v2/node_modules/@discordjs/builders/dist/index.js:223:26)\n    at Object.interactionRun (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/commands/utility/account.js:107:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.handleSlashCommand (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/handlers/command.js:140:7)\n    at async module.exports (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/events/interactions/interactionCreate.js:41:9)","validator":"s.object(T)","given":"BUG#4144"},"msg":"interactionRun: Expected the value to be an object, but received string instead"}
+{"level":30,"time":1674421977191,"pid":29921,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674421977222,"pid":29921,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674421977429,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674421977430,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674421977431,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674421977432,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674421977433,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674421977439,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674421977440,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674421977441,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674421977443,"pid":29921,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674421977444,"pid":29921,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674421977452,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674421977452,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674421977453,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674421977454,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674421977455,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674421977456,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674421977457,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674421977458,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674421977459,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674421977460,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674421977462,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674421977464,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674421977466,"pid":29921,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674421977467,"pid":29921,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674421977471,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674421977472,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674421977473,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674421977474,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674421977475,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674421977477,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674421977477,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674421977478,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674421977479,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674421977480,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674421977481,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674421977482,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674421977482,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674421977483,"pid":29921,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674421977488,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674421977488,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674421977489,"pid":29921,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674421977506,"pid":29921,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674421977506,"pid":29921,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674421977506,"pid":29921,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674421977507,"pid":29921,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674421977507,"pid":29921,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674421977507,"pid":29921,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674421977530,"pid":29921,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674421978029,"pid":29921,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674421978030,"pid":29921,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674421979540,"pid":29921,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674421980873,"pid":29921,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674421980873,"pid":29921,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674421981286,"pid":29921,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674421981433,"pid":29921,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":50,"time":1674421988847,"pid":29921,"hostname":"picadro-sec","err":{"type":"ValidationError","message":"Expected the value to be an object, but received string instead","stack":"Error: Expected the value to be an object, but received string instead\n    at ObjectValidator.handle (/home/picadro/Documents/Projects/JavaScript/Thunar v2/node_modules/@sapphire/shapeshift/dist/index.js:1154:25)\n    at ObjectValidator.parse (/home/picadro/Documents/Projects/JavaScript/Thunar v2/node_modules/@sapphire/shapeshift/dist/index.js:106:88)\n    at EmbedBuilder.setAuthor (/home/picadro/Documents/Projects/JavaScript/Thunar v2/node_modules/@discordjs/builders/dist/index.js:223:26)\n    at Object.interactionRun (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/commands/utility/account.js:107:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.handleSlashCommand (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/handlers/command.js:140:7)\n    at async module.exports (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/events/interactions/interactionCreate.js:41:9)","validator":"s.object(T)","given":"BUG"},"msg":"interactionRun: Expected the value to be an object, but received string instead"}
+{"level":30,"time":1674422011455,"pid":30035,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674422011476,"pid":30035,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674422011655,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674422011656,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674422011657,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674422011658,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674422011660,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674422011667,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674422011667,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674422011668,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674422011669,"pid":30035,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674422011670,"pid":30035,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674422011675,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674422011676,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674422011676,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674422011677,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674422011677,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674422011678,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674422011678,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674422011679,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674422011679,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674422011680,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674422011681,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674422011681,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674422011683,"pid":30035,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674422011684,"pid":30035,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674422011687,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674422011688,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674422011688,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674422011689,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674422011690,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674422011691,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674422011692,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674422011692,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674422011693,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674422011693,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674422011694,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674422011695,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674422011695,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674422011696,"pid":30035,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674422011699,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674422011700,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674422011700,"pid":30035,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674422011720,"pid":30035,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674422011720,"pid":30035,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674422011720,"pid":30035,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674422011721,"pid":30035,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674422011721,"pid":30035,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674422011721,"pid":30035,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674422011749,"pid":30035,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674422012173,"pid":30035,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674422012173,"pid":30035,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674422013794,"pid":30035,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674422015190,"pid":30035,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674422015190,"pid":30035,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674422015814,"pid":30035,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674422016497,"pid":30035,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1674422017656,"pid":30035,"hostname":"picadro-sec","err":{"type":"ValidationError","message":"Expected the value to be an object, but received string instead","stack":"Error: Expected the value to be an object, but received string instead\n    at ObjectValidator.handle (/home/picadro/Documents/Projects/JavaScript/Thunar v2/node_modules/@sapphire/shapeshift/dist/index.js:1154:25)\n    at ObjectValidator.parse (/home/picadro/Documents/Projects/JavaScript/Thunar v2/node_modules/@sapphire/shapeshift/dist/index.js:106:88)\n    at EmbedBuilder.setAuthor (/home/picadro/Documents/Projects/JavaScript/Thunar v2/node_modules/@discordjs/builders/dist/index.js:223:26)\n    at Object.interactionRun (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/commands/utility/account.js:107:26)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.handleSlashCommand (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/handlers/command.js:140:7)\n    at async module.exports (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/events/interactions/interactionCreate.js:41:9)","validator":"s.object(T)","given":"Sa"},"msg":"interactionRun: Expected the value to be an object, but received string instead"}
+{"level":30,"time":1674422035967,"pid":30116,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674422035987,"pid":30116,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674422036160,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674422036161,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674422036162,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674422036166,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674422036166,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674422036174,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674422036174,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674422036176,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674422036177,"pid":30116,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674422036178,"pid":30116,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674422036185,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674422036186,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674422036187,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674422036188,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674422036189,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674422036190,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674422036191,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674422036192,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674422036193,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674422036194,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674422036195,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674422036196,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674422036198,"pid":30116,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674422036199,"pid":30116,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674422036204,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674422036206,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674422036208,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674422036210,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674422036210,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674422036212,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674422036213,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674422036214,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674422036215,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674422036216,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674422036217,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674422036220,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674422036220,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674422036221,"pid":30116,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674422036228,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674422036228,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674422036229,"pid":30116,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674422036252,"pid":30116,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674422036252,"pid":30116,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674422036252,"pid":30116,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674422036253,"pid":30116,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674422036253,"pid":30116,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674422036254,"pid":30116,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674422036285,"pid":30116,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674422036725,"pid":30116,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674422036725,"pid":30116,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674422038378,"pid":30116,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674422039795,"pid":30116,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674422039795,"pid":30116,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674422040426,"pid":30116,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674422040973,"pid":30116,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674422415957,"pid":30757,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674422415980,"pid":30757,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674422416192,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674422416195,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674422416196,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674422416198,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674422416199,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674422416207,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674422416208,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674422416209,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674422416210,"pid":30757,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674422416211,"pid":30757,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674422416218,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674422416218,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674422416220,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674422416221,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674422416221,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674422416222,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674422416222,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674422416223,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674422416224,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674422416225,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674422416226,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674422416227,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674422416229,"pid":30757,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674422416230,"pid":30757,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674422416235,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674422416237,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674422416238,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674422416239,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674422416239,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674422416240,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674422416241,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674422416242,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674422416243,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674422416244,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674422416245,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674422416246,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674422416247,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674422416248,"pid":30757,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674422416254,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674422416254,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674422416255,"pid":30757,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674422416272,"pid":30757,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674422416272,"pid":30757,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674422416273,"pid":30757,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674422416274,"pid":30757,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674422416274,"pid":30757,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674422416274,"pid":30757,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674422416302,"pid":30757,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674422416834,"pid":30757,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674422416834,"pid":30757,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674422418624,"pid":30757,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674422419916,"pid":30757,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674422419916,"pid":30757,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674422420318,"pid":30757,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674422420521,"pid":30757,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":50,"time":1674422427365,"pid":30757,"hostname":"picadro-sec","err":{"type":"TypeError","message":"sentMessageTarget.createMessageComponentCollector is not a function","stack":"TypeError: sentMessageTarget.createMessageComponentCollector is not a function\n    at Object.interactionRun (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/commands/utility/account.js:147:49)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.handleSlashCommand (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/handlers/command.js:140:7)\n    at async module.exports (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/events/interactions/interactionCreate.js:41:9)"},"msg":"interactionRun: sentMessageTarget.createMessageComponentCollector is not a function"}
+{"level":30,"time":1674422666068,"pid":31205,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674422666125,"pid":31205,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674422666408,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674422666411,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674422666412,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674422666413,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674422666414,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674422666423,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674422666423,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674422666424,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674422666426,"pid":31205,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674422666427,"pid":31205,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674422666432,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674422666433,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674422666434,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674422666435,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674422666435,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674422666436,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674422666437,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674422666437,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674422666438,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674422666439,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674422666439,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674422666440,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674422666442,"pid":31205,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674422666442,"pid":31205,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674422666446,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674422666447,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674422666448,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674422666450,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674422666450,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674422666452,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674422666452,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674422666453,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674422666454,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674422666454,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674422666455,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674422666455,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674422666456,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674422666456,"pid":31205,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674422666462,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674422666462,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674422666463,"pid":31205,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674422666479,"pid":31205,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674422666479,"pid":31205,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674422666480,"pid":31205,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674422666481,"pid":31205,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674422666481,"pid":31205,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674422666482,"pid":31205,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674422666506,"pid":31205,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674422666968,"pid":31205,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674422666968,"pid":31205,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674422668950,"pid":31205,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674422670302,"pid":31205,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674422670303,"pid":31205,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674422670760,"pid":31205,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674422670876,"pid":31205,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674422813433,"pid":31477,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674422813455,"pid":31477,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674422813907,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674422813908,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674422813912,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674422813913,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674422813915,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674422813927,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674422813929,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674422813933,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674422813937,"pid":31477,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674422813940,"pid":31477,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674422813955,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674422813956,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674422813960,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674422813961,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674422813961,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674422813962,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674422813963,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674422813963,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674422813965,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674422813966,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674422813968,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674422813970,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674422813973,"pid":31477,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674422813974,"pid":31477,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674422813981,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674422813985,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674422813986,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674422813989,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674422813990,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674422813993,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674422813994,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674422813995,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674422813996,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674422813997,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674422813998,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674422813999,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674422814001,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674422814003,"pid":31477,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674422814010,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674422814011,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674422814011,"pid":31477,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674422814035,"pid":31477,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674422814035,"pid":31477,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674422814036,"pid":31477,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674422814037,"pid":31477,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674422814037,"pid":31477,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674422814038,"pid":31477,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674422814072,"pid":31477,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674422814654,"pid":31477,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674422814654,"pid":31477,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674422816269,"pid":31477,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674422817804,"pid":31477,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674422817804,"pid":31477,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674422817987,"pid":31477,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674422818478,"pid":31477,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674461029254,"pid":3426,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674461029302,"pid":3426,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674461029923,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674461029927,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674461029935,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674461029943,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674461029948,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674461029992,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674461029994,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674461030000,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674461030009,"pid":3426,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674461030011,"pid":3426,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674461030025,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674461030027,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674461030035,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674461030037,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674461030041,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674461030043,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674461030044,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674461030046,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674461030047,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674461030050,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674461030054,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674461030055,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674461030058,"pid":3426,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674461030060,"pid":3426,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674461030069,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674461030071,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674461030073,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674461030078,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674461030081,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674461030086,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674461030088,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674461030091,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674461030095,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674461030098,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674461030099,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674461030101,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674461030102,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674461030103,"pid":3426,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674461030120,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674461030120,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674461030123,"pid":3426,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674461030233,"pid":3426,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674461030233,"pid":3426,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674461030234,"pid":3426,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674461030243,"pid":3426,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674461030243,"pid":3426,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674461030244,"pid":3426,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674461030393,"pid":3426,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674461031013,"pid":3426,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674461031014,"pid":3426,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674461032841,"pid":3426,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674461034339,"pid":3426,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674461034339,"pid":3426,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674461034870,"pid":3426,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674461034955,"pid":3426,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":50,"time":1674461100430,"pid":3426,"hostname":"picadro-sec","err":{"type":"ReferenceError","message":"Owner is not defined","stack":"ReferenceError: Owner is not defined\n    at InteractionCollector.<anonymous> (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/commands/utility/account.js:164:29)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Unhandled exception: Owner is not defined"}
+{"level":30,"time":1674461161543,"pid":3759,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674461161569,"pid":3759,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674461162154,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674461162155,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674461162157,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674461162158,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674461162159,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674461162169,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674461162169,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674461162171,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674461162173,"pid":3759,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674461162174,"pid":3759,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674461162181,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674461162182,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674461162184,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674461162185,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674461162186,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674461162187,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674461162188,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674461162189,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674461162190,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674461162191,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674461162192,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674461162194,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674461162197,"pid":3759,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674461162197,"pid":3759,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674461162202,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674461162203,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674461162204,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674461162206,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674461162207,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674461162209,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674461162210,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674461162210,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674461162212,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674461162213,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674461162214,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674461162215,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674461162216,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674461162217,"pid":3759,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674461162225,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674461162226,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674461162226,"pid":3759,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674461162252,"pid":3759,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674461162252,"pid":3759,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674461162252,"pid":3759,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674461162254,"pid":3759,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674461162254,"pid":3759,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674461162254,"pid":3759,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674461162288,"pid":3759,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674461162817,"pid":3759,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674461162817,"pid":3759,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674461164873,"pid":3759,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674461166257,"pid":3759,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674461166257,"pid":3759,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674461166844,"pid":3759,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674461166904,"pid":3759,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":50,"time":1674461178988,"pid":3759,"hostname":"picadro-sec","err":{"type":"ReferenceError","message":"Acoount is not defined","stack":"ReferenceError: Acoount is not defined\n    at InteractionCollector.<anonymous> (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/commands/utility/account.js:159:29)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Unhandled exception: Acoount is not defined"}
+{"level":30,"time":1674461197768,"pid":3852,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674461197811,"pid":3852,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674461198159,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674461198160,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674461198161,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674461198163,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674461198165,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674461198174,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674461198174,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674461198176,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674461198178,"pid":3852,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674461198179,"pid":3852,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674461198189,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674461198190,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674461198192,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674461198193,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674461198194,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674461198195,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674461198196,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674461198197,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674461198198,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674461198200,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674461198202,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674461198203,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674461198205,"pid":3852,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674461198207,"pid":3852,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674461198213,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674461198216,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674461198217,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674461198219,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674461198220,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674461198222,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674461198223,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674461198225,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674461198227,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674461198228,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674461198229,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674461198231,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674461198232,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674461198234,"pid":3852,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674461198243,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674461198243,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674461198244,"pid":3852,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674461198269,"pid":3852,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674461198269,"pid":3852,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674461198269,"pid":3852,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674461198272,"pid":3852,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674461198273,"pid":3852,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674461198273,"pid":3852,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674461198308,"pid":3852,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674461199053,"pid":3852,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674461199053,"pid":3852,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674461201001,"pid":3852,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674461202465,"pid":3852,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674461202465,"pid":3852,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674461203169,"pid":3852,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674461203674,"pid":3852,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674461228520,"pid":3918,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674461228549,"pid":3918,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674461229226,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674461229229,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674461229236,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674461229243,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674461229246,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674461229282,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674461229285,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674461229290,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674461229297,"pid":3918,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674461229302,"pid":3918,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674461229340,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674461229346,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674461229351,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674461229354,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674461229358,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674461229360,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674461229363,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674461229366,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674461229370,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674461229375,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674461229382,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674461229387,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674461229397,"pid":3918,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674461229402,"pid":3918,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674461229426,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674461229433,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674461229437,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674461229443,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674461229445,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674461229453,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674461229456,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674461229459,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674461229462,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674461229464,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674461229467,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674461229471,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674461229473,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674461229476,"pid":3918,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674461229500,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674461229501,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674461229503,"pid":3918,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674461229572,"pid":3918,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674461229572,"pid":3918,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674461229573,"pid":3918,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674461229578,"pid":3918,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674461229579,"pid":3918,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674461229579,"pid":3918,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674461229675,"pid":3918,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674461230141,"pid":3918,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674461230141,"pid":3918,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674461232246,"pid":3918,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674461233602,"pid":3918,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674461233602,"pid":3918,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674461234175,"pid":3918,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674461234194,"pid":3918,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674461387209,"pid":4152,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674461387230,"pid":4152,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674461387644,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674461387646,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674461387651,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674461387655,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674461387657,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674461387673,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674461387675,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674461387681,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674461387687,"pid":4152,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674461387689,"pid":4152,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674461387702,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674461387704,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674461387705,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674461387706,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674461387708,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674461387709,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674461387710,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674461387711,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674461387712,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674461387714,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674461387716,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674461387718,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674461387721,"pid":4152,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674461387723,"pid":4152,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674461387730,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674461387732,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674461387733,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674461387736,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674461387737,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674461387740,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674461387742,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674461387743,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674461387747,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674461387749,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674461387751,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674461387754,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674461387756,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674461387757,"pid":4152,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674461387773,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674461387774,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674461387776,"pid":4152,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674461387821,"pid":4152,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674461387821,"pid":4152,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674461387821,"pid":4152,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674461387823,"pid":4152,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674461387823,"pid":4152,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674461387823,"pid":4152,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674461387871,"pid":4152,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674461388312,"pid":4152,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674461388313,"pid":4152,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674461389956,"pid":4152,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674461391705,"pid":4152,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674461391706,"pid":4152,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674461392003,"pid":4152,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674461392512,"pid":4152,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674461494026,"pid":4295,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674461494048,"pid":4295,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674461494235,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674461494236,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674461494237,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674461494239,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674461494240,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674461494248,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674461494248,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674461494249,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674461494252,"pid":4295,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674461494254,"pid":4295,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674461494263,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674461494264,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674461494265,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674461494266,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674461494267,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674461494269,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674461494271,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674461494273,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674461494274,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674461494277,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674461494278,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674461494279,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674461494281,"pid":4295,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674461494282,"pid":4295,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674461494286,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674461494287,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674461494288,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674461494290,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674461494291,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674461494292,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674461494293,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674461494294,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674461494295,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674461494296,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674461494297,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674461494298,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674461494298,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674461494299,"pid":4295,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674461494306,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674461494307,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674461494307,"pid":4295,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674461494327,"pid":4295,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674461494327,"pid":4295,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674461494327,"pid":4295,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674461494328,"pid":4295,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674461494328,"pid":4295,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674461494329,"pid":4295,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674461494362,"pid":4295,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674461494875,"pid":4295,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674461494875,"pid":4295,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674461497898,"pid":4295,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674461499507,"pid":4295,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674461499507,"pid":4295,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674461500101,"pid":4295,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674461500129,"pid":4295,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674461527037,"pid":4361,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674461527058,"pid":4361,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674461527253,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674461527254,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674461527255,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674461527258,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674461527259,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674461527266,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674461527267,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674461527267,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674461527270,"pid":4361,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674461527271,"pid":4361,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674461527278,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674461527279,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674461527280,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674461527281,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674461527281,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674461527282,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674461527283,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674461527284,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674461527284,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674461527286,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674461527287,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674461527288,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674461527289,"pid":4361,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674461527290,"pid":4361,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674461527294,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674461527295,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674461527295,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674461527297,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674461527297,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674461527299,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674461527299,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674461527300,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674461527301,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674461527302,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674461527303,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674461527304,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674461527305,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674461527306,"pid":4361,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674461527312,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674461527313,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674461527313,"pid":4361,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674461527332,"pid":4361,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674461527332,"pid":4361,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674461527332,"pid":4361,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674461527333,"pid":4361,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674461527333,"pid":4361,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674461527333,"pid":4361,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674461527355,"pid":4361,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674461527802,"pid":4361,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674461527803,"pid":4361,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674461529751,"pid":4361,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674461531221,"pid":4361,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674461531221,"pid":4361,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674461531813,"pid":4361,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674461532062,"pid":4361,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674461586890,"pid":4514,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674461586917,"pid":4514,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674461587224,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674461587225,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674461587227,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674461587229,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674461587229,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674461587237,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674461587238,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674461587240,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674461587243,"pid":4514,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674461587244,"pid":4514,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674461587252,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674461587253,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674461587255,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674461587256,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674461587257,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674461587258,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674461587259,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674461587260,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674461587261,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674461587262,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674461587263,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674461587265,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674461587267,"pid":4514,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674461587268,"pid":4514,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674461587274,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674461587275,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674461587277,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674461587279,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674461587279,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674461587281,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674461587282,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674461587283,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674461587284,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674461587285,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674461587286,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674461587288,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674461587289,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674461587291,"pid":4514,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674461587300,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674461587301,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674461587302,"pid":4514,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674461587328,"pid":4514,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674461587328,"pid":4514,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674461587328,"pid":4514,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674461587330,"pid":4514,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674461587330,"pid":4514,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674461587330,"pid":4514,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674461587356,"pid":4514,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674461587849,"pid":4514,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674461587849,"pid":4514,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674461589511,"pid":4514,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674461590845,"pid":4514,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674461590845,"pid":4514,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674461591381,"pid":4514,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674461591506,"pid":4514,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674461702353,"pid":5091,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674461702466,"pid":5091,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674461702800,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674461702801,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674461702802,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674461702803,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674461702804,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674461702812,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674461702813,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674461702815,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674461702818,"pid":5091,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674461702819,"pid":5091,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674461702828,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674461702830,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674461702834,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674461702835,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674461702835,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674461702836,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674461702837,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674461702838,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674461702839,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674461702842,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674461702844,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674461702848,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674461702852,"pid":5091,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674461702854,"pid":5091,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674461702860,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674461702862,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674461702863,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674461702866,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674461702867,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674461702869,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674461702869,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674461702870,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674461702872,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674461702873,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674461702874,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674461702876,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674461702878,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674461702879,"pid":5091,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674461702886,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674461702887,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674461702887,"pid":5091,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674461702913,"pid":5091,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674461702913,"pid":5091,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674461702913,"pid":5091,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674461702915,"pid":5091,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674461702915,"pid":5091,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674461702915,"pid":5091,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674461703027,"pid":5091,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674461703653,"pid":5091,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674461703653,"pid":5091,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674461705285,"pid":5091,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674461706571,"pid":5091,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674461706572,"pid":5091,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674461707067,"pid":5091,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1674461707352,"pid":5091,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":50,"time":1674462465689,"pid":5091,"hostname":"picadro-sec","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1674462616603,"pid":5091,"hostname":"picadro-sec","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":30,"time":1674498088757,"pid":4261,"hostname":"picadro-sec","msg":"Validating config file and environment variables"}
+{"level":30,"time":1674498088981,"pid":4261,"hostname":"picadro-sec","msg":"Loading commands..."}
+{"level":20,"time":1674498091267,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1674498091277,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1674498091288,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1674498091307,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1674498091326,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1674498091387,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1674498091404,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1674498091410,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1674498091436,"pid":4261,"hostname":"picadro-sec","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1674498091446,"pid":4261,"hostname":"picadro-sec","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1674498091518,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1674498091527,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1674498091535,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1674498091536,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1674498091539,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1674498091541,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1674498091547,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1674498091550,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1674498091555,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1674498091567,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1674498091574,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1674498091580,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1674498091589,"pid":4261,"hostname":"picadro-sec","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1674498091596,"pid":4261,"hostname":"picadro-sec","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1674498091616,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1674498091623,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1674498091626,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1674498091633,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1674498091634,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1674498091638,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1674498091639,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1674498091641,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1674498091643,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1674498091646,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1674498091648,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1674498091652,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1674498091654,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1674498091657,"pid":4261,"hostname":"picadro-sec","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1674498091675,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1674498091678,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1674498091680,"pid":4261,"hostname":"picadro-sec","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1674498091864,"pid":4261,"hostname":"picadro-sec","msg":"Loaded 103 commands"}
+{"level":30,"time":1674498091864,"pid":4261,"hostname":"picadro-sec","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1674498091865,"pid":4261,"hostname":"picadro-sec","msg":"Loading contexts..."}
+{"level":30,"time":1674498091872,"pid":4261,"hostname":"picadro-sec","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1674498091873,"pid":4261,"hostname":"picadro-sec","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1674498091874,"pid":4261,"hostname":"picadro-sec","msg":"Loading events..."}
+{"level":30,"time":1674498092191,"pid":4261,"hostname":"picadro-sec","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1674498092923,"pid":4261,"hostname":"picadro-sec","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1674498092924,"pid":4261,"hostname":"picadro-sec","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1674498094818,"pid":4261,"hostname":"picadro-sec","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1674498096337,"pid":4261,"hostname":"picadro-sec","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1674498096337,"pid":4261,"hostname":"picadro-sec","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1674498097194,"pid":4261,"hostname":"picadro-sec","msg":"Successfully registered interactions"}
+{"level":30,"time":1674498097958,"pid":4261,"hostname":"picadro-sec","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1674498823351,"pid":4261,"hostname":"picadro-sec","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1674498896958,"pid":4261,"hostname":"picadro-sec","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1674498914742,"pid":4261,"hostname":"picadro-sec","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1674498924042,"pid":4261,"hostname":"picadro-sec","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/Projects/JavaScript/Thunar v2/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}

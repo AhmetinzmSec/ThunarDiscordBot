@@ -1,0 +1,981 @@
+{"level":30,"time":1671207349825,"pid":16076,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671207349826,"pid":16076,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671207349826,"pid":16076,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671207350181,"pid":16076,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671207356533,"pid":16076,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671207356534,"pid":16076,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671207356535,"pid":16076,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671207356539,"pid":16076,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671207356540,"pid":16076,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671207356541,"pid":16076,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671207356542,"pid":16076,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671207356544,"pid":16076,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671207356545,"pid":16076,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671207356575,"pid":16076,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671207356576,"pid":16076,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671207356576,"pid":16076,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671207356578,"pid":16076,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671207356578,"pid":16076,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671207356586,"pid":16076,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671207356587,"pid":16076,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671207356588,"pid":16076,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671207356588,"pid":16076,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671207356589,"pid":16076,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671207356589,"pid":16076,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671207356589,"pid":16076,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671207356590,"pid":16076,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671207356590,"pid":16076,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671207356591,"pid":16076,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671207356592,"pid":16076,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671207356592,"pid":16076,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671207356593,"pid":16076,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671207356594,"pid":16076,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671207356598,"pid":16076,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671207356599,"pid":16076,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671207356600,"pid":16076,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671207356619,"pid":16076,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671207356620,"pid":16076,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671207356621,"pid":16076,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671207356622,"pid":16076,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671207356622,"pid":16076,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671207356622,"pid":16076,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671207356623,"pid":16076,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671207356623,"pid":16076,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671207356624,"pid":16076,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671207356624,"pid":16076,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671207356624,"pid":16076,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671207356625,"pid":16076,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671207356625,"pid":16076,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671207356626,"pid":16076,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671207356686,"pid":16076,"hostname":"Filo","msg":"Loaded 89 commands"}
+{"level":30,"time":1671207356686,"pid":16076,"hostname":"Filo","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1671207356686,"pid":16076,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671207356687,"pid":16076,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671207356687,"pid":16076,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671207356687,"pid":16076,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671207356730,"pid":16076,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671207357149,"pid":16076,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671207357149,"pid":16076,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671207365523,"pid":16076,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671207367132,"pid":16076,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671207367924,"pid":16076,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671207369492,"pid":16076,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671207369492,"pid":16076,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671207369710,"pid":16076,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671207370505,"pid":16076,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":30,"time":1671207647118,"pid":7872,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671207647118,"pid":7872,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671207647118,"pid":7872,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671207647150,"pid":7872,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671207647548,"pid":7872,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671207647549,"pid":7872,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671207647549,"pid":7872,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671207647556,"pid":7872,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671207647558,"pid":7872,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671207647560,"pid":7872,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671207647561,"pid":7872,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671207647563,"pid":7872,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671207647563,"pid":7872,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671207647572,"pid":7872,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671207647573,"pid":7872,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671207647575,"pid":7872,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671207647577,"pid":7872,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671207647578,"pid":7872,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671207647585,"pid":7872,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671207647586,"pid":7872,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671207647588,"pid":7872,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671207647588,"pid":7872,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671207647590,"pid":7872,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671207647590,"pid":7872,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671207647591,"pid":7872,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671207647591,"pid":7872,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671207647592,"pid":7872,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671207647593,"pid":7872,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671207647593,"pid":7872,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671207647594,"pid":7872,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671207647596,"pid":7872,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671207647597,"pid":7872,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671207647600,"pid":7872,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671207647601,"pid":7872,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671207647602,"pid":7872,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671207647603,"pid":7872,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671207647603,"pid":7872,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671207647605,"pid":7872,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671207647607,"pid":7872,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671207647608,"pid":7872,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671207647609,"pid":7872,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671207647609,"pid":7872,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671207647610,"pid":7872,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671207647610,"pid":7872,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671207647610,"pid":7872,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671207647611,"pid":7872,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671207647612,"pid":7872,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671207647612,"pid":7872,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671207647612,"pid":7872,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671207647640,"pid":7872,"hostname":"Filo","msg":"Loaded 89 commands"}
+{"level":30,"time":1671207647640,"pid":7872,"hostname":"Filo","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1671207647640,"pid":7872,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671207647642,"pid":7872,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671207647642,"pid":7872,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671207647642,"pid":7872,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671207647680,"pid":7872,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671207648117,"pid":7872,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671207648117,"pid":7872,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671207648293,"pid":7872,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671207649924,"pid":7872,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671207649939,"pid":7872,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671207651266,"pid":7872,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671207651266,"pid":7872,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671207651455,"pid":7872,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671207651769,"pid":7872,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":50,"time":1671207660949,"pid":7872,"hostname":"Filo","err":{"type":"DiscordjsError","message":"The reply to this interaction has already been sent or deferred.","stack":"Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.\n    at ChatInputCommandInteraction.showModal (D:\\Projeler\\JavaScript\\Thunar v2\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:252:46)\n    at Object.interactionRun (D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\comliant.js:37:27)\n    at Object.handleSlashCommand (D:\\Projeler\\JavaScript\\Thunar v2\\src\\handlers\\command.js:140:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async module.exports (D:\\Projeler\\JavaScript\\Thunar v2\\src\\events\\interactions\\interactionCreate.js:18:5)","code":"InteractionAlreadyReplied"},"msg":"interactionRun: The reply to this interaction has already been sent or deferred."}
+{"level":30,"time":1671207726473,"pid":9024,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671207726474,"pid":9024,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671207726474,"pid":9024,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671207726502,"pid":9024,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671207726889,"pid":9024,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671207726890,"pid":9024,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671207726890,"pid":9024,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671207726894,"pid":9024,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671207726895,"pid":9024,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671207726896,"pid":9024,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671207726897,"pid":9024,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671207726898,"pid":9024,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671207726899,"pid":9024,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671207726907,"pid":9024,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671207726907,"pid":9024,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671207726908,"pid":9024,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671207726909,"pid":9024,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671207726910,"pid":9024,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671207726917,"pid":9024,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671207726918,"pid":9024,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671207726919,"pid":9024,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671207726919,"pid":9024,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671207726920,"pid":9024,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671207726920,"pid":9024,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671207726920,"pid":9024,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671207726921,"pid":9024,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671207726921,"pid":9024,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671207726922,"pid":9024,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671207726923,"pid":9024,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671207727011,"pid":9024,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671207727014,"pid":9024,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671207727016,"pid":9024,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671207727023,"pid":9024,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671207727026,"pid":9024,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671207727027,"pid":9024,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671207727029,"pid":9024,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671207727030,"pid":9024,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671207727032,"pid":9024,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671207727034,"pid":9024,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671207727035,"pid":9024,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671207727036,"pid":9024,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671207727037,"pid":9024,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671207727038,"pid":9024,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671207727039,"pid":9024,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671207727039,"pid":9024,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671207727040,"pid":9024,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671207727042,"pid":9024,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671207727043,"pid":9024,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671207727044,"pid":9024,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671207727066,"pid":9024,"hostname":"Filo","msg":"Loaded 89 commands"}
+{"level":30,"time":1671207727066,"pid":9024,"hostname":"Filo","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1671207727066,"pid":9024,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671207727067,"pid":9024,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671207727067,"pid":9024,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671207727067,"pid":9024,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671207727096,"pid":9024,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671207727538,"pid":9024,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671207727538,"pid":9024,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671207727652,"pid":9024,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671207729097,"pid":9024,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671207729130,"pid":9024,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671207730485,"pid":9024,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671207730485,"pid":9024,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671207730653,"pid":9024,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1671207730922,"pid":9024,"hostname":"Filo","err":{"type":"DiscordAPIError","message":"Invalid Form Body\n26.options[0][TAG_FIELD_MISSING]: Field \"type\" is required to determine the model type.","stack":"DiscordAPIError[50035]: Invalid Form Body\n26.options[0][TAG_FIELD_MISSING]: Field \"type\" is required to determine the model type.\n    at SequentialHandler.runRequest (D:\\Projeler\\JavaScript\\Thunar v2\\node_modules\\@discordjs\\rest\\dist\\index.js:667:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async SequentialHandler.queueRequest (D:\\Projeler\\JavaScript\\Thunar v2\\node_modules\\@discordjs\\rest\\dist\\index.js:464:14)\n    at async REST.request (D:\\Projeler\\JavaScript\\Thunar v2\\node_modules\\@discordjs\\rest\\dist\\index.js:910:22)\n    at async GuildApplicationCommandManager.set (D:\\Projeler\\JavaScript\\Thunar v2\\node_modules\\discord.js\\src\\managers\\ApplicationCommandManager.js:173:18)\n    at async BotClient.registerInteractions (D:\\Projeler\\JavaScript\\Thunar v2\\src\\structures\\BotClient.js:263:7)\n    at async module.exports (D:\\Projeler\\JavaScript\\Thunar v2\\src\\events\\ready.js:31:10)","requestBody":{"json":[{"name":"anti","description":"manage various automod settings for the server","type":1,"options":[{"type":1,"name":"ghostping","description":"detects and logs ghost mentions in your server","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"spam","description":"enable or disable antispam detection","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"massmention","description":"enable or disable massmention detection","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]},{"type":4,"name":"threshold","description":"configuration threshold (default is 3 mentions)","required":false}]}]},{"name":"autodelete","description":"manage the autodelete settings for the server","type":1,"options":[{"type":1,"name":"attachments","description":"allow or disallow attachments in message","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"invites","description":"allow or disallow discord invites in message","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"links","description":"allow or disallow links in message","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"maxlines","description":"sets maximum lines allowed per message","options":[{"type":4,"name":"amount","description":"configuration amount (0 to disable)","required":true}]}]},{"name":"automod","description":"various automod configuration","type":1,"options":[{"type":1,"name":"status","description":"check automod configuration"},{"type":1,"name":"strikes","description":"set maximum number of strikes before taking an action","options":[{"type":4,"name":"amount","description":"number of strikes (default 5)","required":true}]},{"type":1,"name":"action","description":"set action to be performed after receiving maximum strikes","options":[{"type":3,"name":"action","description":"action to perform","required":true,"choices":[{"name":"TIMEOUT","value":"TIMEOUT"},{"name":"KICK","value":"KICK"},{"name":"BAN","value":"BAN"}]}]},{"type":1,"name":"debug","description":"enable/disable automod for messages sent by admins & moderators","options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"whitelist","description":"view whitelisted channels"},{"type":1,"name":"whitelistadd","description":"add a channel to the whitelist","options":[{"type":7,"name":"channel","description":"channel to add","required":true,"channel_types":[0]}]},{"type":1,"name":"whitelistremove","description":"remove a channel from the whitelist","options":[{"type":7,"name":"channel","description":"channel to remove","required":true,"channel_types":[0]}]}]},{"name":"autorole","description":"setup role to be given when a member joins the server","type":1,"options":[{"type":1,"name":"add","description":"setup the autorole","options":[{"type":8,"name":"role","description":"the role to be given","required":false},{"type":3,"name":"role_id","description":"the role id to be given","required":false}]},{"type":1,"name":"remove","description":"disable the autorole"}]},{"name":"counter","description":"setup counter channel in the guild","type":1,"options":[{"type":3,"name":"type","description":"type of counter channel","required":true,"choices":[{"name":"users","value":"USERS"},{"name":"members","value":"MEMBERS"},{"name":"bots","value":"BOTS"}]},{"type":3,"name":"name","description":"name of the counter channel","required":true}]},{"name":"embed","description":"send embed message","type":1,"options":[{"type":7,"name":"channel","description":"channel to send embed","required":true,"channel_types":[0]}]},{"name":"flagtranslation","description":"configure flag translation in the server","type":1,"options":[{"type":3,"name":"status","description":"enabled or disabled","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"name":"farewell","description":"setup farewell message","type":1,"options":[{"type":1,"name":"status","description":"enable or disable farewell message","options":[{"type":3,"name":"status","description":"enabled or disabled","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"preview","description":"preview the configured farewell message"},{"type":1,"name":"channel","description":"set farewell channel","options":[{"type":7,"name":"channel","description":"channel name","required":true,"channel_types":[0]}]},{"type":1,"name":"desc","description":"set embed description","options":[{"type":3,"name":"content","description":"description content","required":true}]},{"type":1,"name":"thumbnail","description":"configure embed thumbnail","options":[{"type":3,"name":"status","description":"thumbnail status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"color","description":"set embed color","options":[{"type":3,"name":"hex-code","description":"hex color code","required":true}]},{"type":1,"name":"footer","description":"set embed footer","options":[{"type":3,"name":"content","description":"footer content","required":true}]},{"type":1,"name":"image","description":"set embed image","options":[{"type":3,"name":"url","description":"image url","required":true}]}]},{"name":"welcome","description":"setup welcome message","type":1,"options":[{"type":1,"name":"status","description":"enable or disable welcome message","options":[{"type":3,"name":"status","description":"enabled or disabled","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"preview","description":"preview the configured welcome message"},{"type":1,"name":"channel","description":"set welcome channel","options":[{"type":7,"name":"channel","description":"channel name","required":true,"channel_types":[0]}]},{"type":1,"name":"desc","description":"set embed description","options":[{"type":3,"name":"content","description":"description content","required":true}]},{"type":1,"name":"thumbnail","description":"configure embed thumbnail","options":[{"type":3,"name":"status","description":"thumbnail status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"color","description":"set embed color","options":[{"type":3,"name":"hex-code","description":"hex color code","required":true}]},{"type":1,"name":"footer","description":"set embed footer","options":[{"type":3,"name":"content","description":"footer content","required":true}]},{"type":1,"name":"image","description":"set embed image","options":[{"type":3,"name":"url","description":"image url","required":true}]}]},{"name":"maxwarn","description":"set max warnings configuration","type":1,"options":[{"type":1,"name":"limit","description":"set max warnings a member can receive before taking an action","options":[{"type":4,"name":"amount","description":"max number of strikes","required":true}]},{"type":1,"name":"action","description":"set action to performed after receiving maximum warnings","options":[{"type":3,"name":"action","description":"action to perform","required":true,"choices":[{"name":"TIMEOUT","value":"TIMEOUT"},{"name":"KICK","value":"KICK"},{"name":"BAN","value":"BAN"}]}]}]},{"name":"modlog","description":"enable or disable moderation logs","type":1,"options":[{"type":7,"name":"channel","description":"channels to send mod logs","required":false,"channel_types":[0]}]},{"name":"addrr","description":"setup reaction role for the specified message","type":1,"options":[{"type":7,"name":"channel","description":"channel where the message exists","required":true,"channel_types":[0]},{"type":3,"name":"message_id","description":"message id to which reaction roles must be configured","required":true},{"type":3,"name":"emoji","description":"emoji to use","required":true},{"type":8,"name":"role","description":"role to be given for the selected emoji","required":true}]},{"name":"removerr","description":"remove configured reaction for the specified message","type":1,"options":[{"type":7,"name":"channel","description":"channel where the message exists","required":true,"channel_types":[0]},{"type":3,"name":"message_id","description":"message id for which reaction roles was configured","required":true}]},{"name":"setprefix","description":"sets a new prefix for this server","type":1,"options":[{"type":3,"name":"newprefix","description":"the new prefix to set","required":true}]},{"name":"react","description":"anime reactions","type":1,"options":[{"type":3,"name":"category","description":"reaction type","required":true,"choices":[{"name":"hug","value":"hug"},{"name":"kiss","value":"kiss"},{"name":"cuddle","value":"cuddle"},{"name":"feed","value":"feed"},{"name":"pat","value":"pat"},{"name":"poke","value":"poke"},{"name":"slap","value":"slap"},{"name":"smug","value":"smug"},{"name":"tickle","value":"tickle"},{"name":"wink","value":"wink"}]}]},{"name":"bank","description":"access to bank operations","type":1,"options":[{"type":1,"name":"balance","description":"check your coin balance","options":[{"type":6,"name":"user","description":"name of the user","required":false}]},{"type":1,"name":"deposit","description":"deposit coins to your bank account","options":[{"type":4,"name":"coins","description":"number of coins to deposit","required":true}]},{"type":1,"name":"withdraw","description":"withdraw coins from your bank account","options":[{"type":4,"name":"coins","description":"number of coins to withdraw","required":true}]},{"type":1,"name":"transfer","description":"transfer coins to other user","options":[{"type":6,"name":"user","description":"the user to whom coins must be transferred","required":true},{"type":4,"name":"coins","description":"the amount of coins to transfer","required":true}]}]},{"name":"beg","description":"beg from someone","type":1},{"name":"daily","description":"receive a daily bonus","type":1},{"name":"gamble","description":"try your luck by gambling","type":1,"options":[{"type":4,"name":"coins","description":"number of coins to bet","required":true}]},{"name":"animal","description":"shows a random animal image","type":1,"options":[{"type":3,"name":"name","description":"animal type","required":true,"choices":[{"name":"cat","value":"cat"},{"name":"dog","value":"dog"},{"name":"panda","value":"panda"},{"name":"fox","value":"fox"},{"name":"red_panda","value":"red_panda"},{"name":"koala","value":"koala"},{"name":"bird","value":"bird"},{"name":"raccoon","value":"raccoon"},{"name":"kangaroo","value":"kangaroo"}]}]},{"name":"facts","description":"shows a random animal facts","type":1,"options":[{"type":3,"name":"name","description":"animal type","required":true,"choices":[{"name":"cat","value":"cat"},{"name":"dog","value":"dog"},{"name":"panda","value":"panda"},{"name":"fox","value":"fox"},{"name":"red_panda","value":"red_panda"},{"name":"koala","value":"koala"},{"name":"bird","value":"bird"},{"name":"raccoon","value":"raccoon"},{"name":"kangaroo","value":"kangaroo"}]}]},{"name":"flip","description":"flips a coin or message","type":1,"options":[{"type":1,"name":"coin","description":"flip a coin"},{"type":1,"name":"text","description":"reverses the given message","options":[{"type":3,"name":"input","description":"text to flip","required":true}]}]},{"name":"meme","description":"get a random meme","type":1,"options":[{"type":3,"name":"category","description":"meme category","required":false}]},{"name":"snake","description":"play snake game on discord","type":1},{"name":"together","description":"discord together","type":1,"options":[{"type":3,"name":"type","description":"type","required":true,"choices":[{"name":"askaway","value":"askaway"},{"name":"awkword","value":"awkword"},{"name":"betrayal","value":"betrayal"},{"name":"bobble","value":"bobble"},{"name":"checkers","value":"checkers"},{"name":"chess","value":"chess"},{"name":"chessdev","value":"chessdev"},{"name":"doodlecrew","value":"doodlecrew"},{"name":"fishing","value":"fishing"},{"name":"land","value":"land"},{"name":"lettertile","value":"lettertile"},{"name":"meme","value":"meme"},{"name":"ocho","value":"ocho"},{"name":"poker","value":"poker"},{"name":"puttparty","value":"puttparty"},{"name":"puttpartyqa","value":"puttpartyqa"},{"name":"sketchheads","value":"sketchheads"},{"name":"sketchyartist","value":"sketchyartist"},{"name":"spellcast","value":"spellcast"},{"name":"wordsnack","value":"wordsnack"},{"name":"youtube","value":"youtube"},{"name":"youtubedev","value":"youtubedev"}]}]},{"name":"giveaway","description":"giveaway commands","type":1,"options":[{"type":1,"name":"start","description":"start a giveaway","options":[{"type":7,"name":"channel","description":"the channel to start the giveaway in","required":true,"channel_types":[0]}]},{"type":1,"name":"pause","description":"pause a giveaway","options":[{"type":3,"name":"message_id","description":"the message id of the giveaway","required":true}]},{"type":1,"name":"resume","description":"resume a paused giveaway","options":[{"type":3,"name":"message_id","description":"the message id of the giveaway","required":true}]},{"type":1,"name":"end","description":"end a giveaway","options":[{"type":3,"name":"message_id","description":"the message id of the giveaway","required":true}]},{"type":1,"name":"reroll","description":"reroll a giveaway","options":[{"type":3,"name":"message_id","description":"the message id of the giveaway","required":true}]},{"type":1,"name":"list","description":"list all giveaways"},{"type":1,"name":"edit","description":"edit a giveaway","options":[{"type":3,"name":"message_id","description":"the message id of the giveaway","required":true},{"type":4,"name":"add_duration","description":"the number of minutes to add to the giveaway duration","required":false},{"type":3,"name":"new_prize","description":"the new prize","required":false},{"type":4,"name":"new_winners","description":"the new number of winners","required":false}]}]},{"name":"compliant","description":"FeedBack","type":1,"options":[{"name":"explanation","description":"sa","required":false}]},{"name":"ping","description":"shows the current ping from the bot to the discord servers","type":1,"options":[]},{"name":"bot","description":"bot related commands","type":1,"options":[{"type":1,"name":"invite","description":"get bot's invite"},{"type":1,"name":"stats","description":"get bot's statistics"},{"type":1,"name":"uptime","description":"get bot's uptime"}]},{"name":"info","description":"show various information","type":1,"options":[{"type":1,"name":"user","description":"get user information","options":[{"type":6,"name":"name","description":"name of the user","required":false}]},{"type":1,"name":"channel","description":"get channel information","options":[{"type":7,"name":"name","description":"name of the channel","required":false}]},{"type":1,"name":"guild","description":"get guild information"},{"type":1,"name":"bot","description":"get bot information"},{"type":1,"name":"avatar","description":"displays avatar information","options":[{"type":6,"name":"name","description":"name of the user","required":false}]},{"type":1,"name":"emoji","description":"displays emoji information","options":[{"type":3,"name":"name","description":"name of the emoji","required":true}]}]},{"name":"addinvites","description":"add invites to a member","type":1,"options":[{"type":6,"name":"user","description":"the user to give invites to","required":true},{"type":4,"name":"invites","description":"the number of invites to give","required":true}]},{"name":"invitecodes","description":"list all your invites codes in this guild","type":1,"options":[{"type":6,"name":"user","description":"the user to get the invite codes for","required":false}]},{"name":"inviter","description":"shows inviter information","type":1,"options":[{"type":6,"name":"user","description":"the user to get the inviter information for","required":false}]},{"name":"inviterank","description":"configure invite ranks","type":1,"options":[{"type":1,"name":"add","description":"add a new invite rank","options":[{"type":8,"name":"role","description":"role to be given","required":true},{"type":4,"name":"invites","description":"number of invites required to obtain the role","required":true}]},{"type":1,"name":"remove","description":"remove a previously configured invite rank","options":[{"type":8,"name":"role","description":"role with configured invite rank","required":true}]}]},{"name":"inviteranks","description":"shows the invite ranks configured on this guild","type":1},{"name":"invites","description":"shows number of invites in this server","type":1,"options":[{"type":6,"name":"user","description":"the user to get the invites for","required":false}]},{"name":"invitesimport","description":"add existing guild invites to users","type":1,"options":[{"type":6,"name":"user","description":"the user to import invites for","required":false}]},{"name":"invitetracker","description":"enable or disable invite tracking in the server","type":1,"options":[{"type":3,"name":"status","description":"configuration status","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"name":"resetinvites","description":"clear a users added invites","type":1,"options":[{"type":6,"name":"user","description":"the user to clear invites for","required":true}]},{"name":"ban","description":"bans the specified member","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for ban","required":false}]},{"name":"kick","description":"kicks the specified member","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for kick","required":false}]},{"name":"login","description":"Register in the guild","type":1,"options":[{"type":3,"name":"name","description":"state your name","required":true},{"type":4,"name":"age","description":"state your age","required":true}]},{"name":"nick","description":"nickname commands","type":1,"options":[{"type":1,"name":"set","description":"change a members nickname","options":[{"type":6,"name":"user","description":"the member whose nick you want to set","required":true},{"type":3,"name":"name","description":"the nickname to set","required":true}]},{"type":1,"name":"reset","description":"reset a members nickname","options":[{"type":6,"name":"user","description":"the members whose nick you want to reset","required":true}]}]},{"name":"purge","description":"purge commands","type":1,"options":[{"type":1,"name":"all","description":"purge all messages","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]},{"type":1,"name":"attachments","description":"purge all messages with attachments","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]},{"type":1,"name":"bots","description":"purge all bot messages","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]},{"type":1,"name":"links","description":"purge all messages with links","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]},{"type":1,"name":"token","description":"purge all messages containing the specified token","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":3,"name":"token","description":"token to be looked up in messages","required":true},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]},{"type":1,"name":"user","description":"purge all messages from the specified user","options":[{"type":7,"name":"channel","description":"channel from which messages must be cleaned","required":true,"channel_types":[0]},{"type":6,"name":"user","description":"user whose messages needs to be cleaned","required":true},{"type":4,"name":"amount","description":"number of messages to be deleted (Max 99)","required":false}]}]},{"name":"voice","description":"voice moderation commands","type":1,"options":[{"type":1,"name":"mute","description":"mute a member's voice","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for mute","required":false}]},{"type":1,"name":"unmute","description":"unmute a muted member's voice","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for unmute","required":false}]},{"type":1,"name":"deafen","description":"deafen a member in voice channel","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for deafen","required":false}]},{"type":1,"name":"undeafen","description":"undeafen a member in voice channel","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for undeafen","required":false}]},{"type":1,"name":"kick","description":"kick a member from voice channel","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for mute","required":false}]},{"type":1,"name":"move","description":"move a member from one voice channel to another","options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":7,"name":"channel","description":"the channel to move member to","required":true,"channel_types":[2,13]},{"type":3,"name":"reason","description":"reason for mute","required":false}]}]},{"name":"softban","description":"softban the specified member. Kicks and deletes messages","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for softban","required":false}]},{"name":"timeout","description":"timeouts the specified member","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"duration","description":"the time to timeout the member for","required":true},{"type":3,"name":"reason","description":"reason for timeout","required":false}]},{"name":"unban","description":"unbans the specified member","type":1,"options":[{"type":3,"name":"name","description":"match the name of the member","required":true},{"type":3,"name":"reason","description":"reason for ban","required":false}]},{"name":"untimeout","description":"remove timeout from a member","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for timeout","required":false}]},{"name":"warn","description":"warns the specified member","type":1,"options":[{"type":6,"name":"user","description":"the target member","required":true},{"type":3,"name":"reason","description":"reason for warn","required":false}]},{"name":"warnings","description":"list or clear user warnings","type":1,"options":[{"type":1,"name":"list","description":"list all warnings for a user","options":[{"type":6,"name":"user","description":"the target member","required":true}]},{"type":1,"name":"clear","description":"clear all warnings for a user","options":[{"type":6,"name":"user","description":"the target member","required":true}]}]},{"name":"rep","description":"give reputation to a user","type":1,"options":[{"type":1,"name":"view","description":"view reputation for a user","options":[{"type":6,"name":"user","description":"the user to check reputation for","required":false}]},{"type":1,"name":"give","description":"give reputation to a user","options":[{"type":6,"name":"user","description":"the user to check reputation for","required":true}]}]},{"name":"rank","description":"displays members rank in this server","type":1,"options":[{"type":6,"name":"user","description":"target user","required":false}]},{"name":"stats","description":"displays members stats in this server","type":1,"options":[{"type":6,"name":"user","description":"target user","required":false}]},{"name":"statstracking","description":"enable or disable tracking stats in the server","type":1,"options":[{"type":3,"name":"status","description":"enabled or disabled","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"name":"levelup","description":"configure the levelling system","type":1,"options":[{"type":1,"name":"message","description":"set custom level up message","options":[{"type":3,"name":"message","description":"message to display when a user levels up","required":true}]},{"type":1,"name":"channel","description":"set the channel to send level up messages to","options":[{"type":7,"name":"channel","description":"channel to send level up messages to","required":true,"channel_types":[0]}]}]},{"name":"suggest","description":"submit a suggestion","type":1,"options":[{"type":3,"name":"suggestion","description":"the suggestion","required":true}]},{"name":"suggestion","description":"configure suggestion system","type":1,"options":[{"type":1,"name":"status","description":"enable or disable suggestion status","options":[{"type":3,"name":"status","description":"enabled or disabled","required":true,"choices":[{"name":"ON","value":"ON"},{"name":"OFF","value":"OFF"}]}]},{"type":1,"name":"channel","description":"configure suggestion channel or disable it","options":[{"type":7,"name":"channel_name","description":"the channel where suggestions will be sent","required":false,"channel_types":[0]}]},{"type":1,"name":"appch","description":"configure approved suggestions channel or disable it","options":[{"type":7,"name":"channel_name","description":"the channel where approved suggestions will be sent","required":false,"channel_types":[0]}]},{"type":1,"name":"rejch","description":"configure rejected suggestions channel or disable it","options":[{"type":7,"name":"channel_name","description":"the channel where rejected suggestions will be sent","required":false,"channel_types":[0]}]},{"type":1,"name":"approve","description":"approve a suggestion","options":[{"type":7,"name":"channel_name","description":"the channel where message exists","required":true,"channel_types":[0]},{"type":3,"name":"message_id","description":"the message id of the suggestion","required":true},{"type":3,"name":"reason","description":"the reason for the approval","required":false}]},{"type":1,"name":"reject","description":"reject a suggestion","options":[{"type":7,"name":"channel_name","description":"the channel where message exists","required":true,"channel_types":[0]},{"type":3,"name":"message_id","description":"the message id of the suggestion","required":true},{"type":3,"name":"reason","description":"the reason for the rejection","required":false}]},{"type":1,"name":"staffadd","description":"add a staff role","options":[{"type":8,"name":"role","description":"the role to add as a staff","required":true}]},{"type":1,"name":"staffremove","description":"staffremove a staff role","options":[{"type":8,"name":"role","description":"the role to staffremove from a staff","required":true}]}]},{"name":"ticket","description":"various ticketing commands","type":1,"options":[{"type":1,"name":"setup","description":"setup a new ticket message","options":[{"type":7,"name":"channel","description":"the channel where ticket creation message must be sent","required":true,"channel_types":[0]}]},{"type":1,"name":"log","description":"setup log channel for tickets","options":[{"type":7,"name":"channel","description":"channel where ticket logs must be sent","required":true,"channel_types":[0]}]},{"type":1,"name":"limit","description":"set maximum number of concurrent open tickets","options":[{"type":4,"name":"amount","description":"max number of tickets","required":true}]},{"type":1,"name":"close","description":"closes the ticket [used in ticket channel only]"},{"type":1,"name":"closeall","description":"closes all open tickets"},{"type":1,"name":"add","description":"add user to the current ticket channel [used in ticket channel only]","options":[{"type":3,"name":"user_id","description":"the id of the user to add","required":true}]},{"type":1,"name":"remove","description":"remove user from the ticket channel [used in ticket channel only]","options":[{"type":6,"name":"user","description":"the user to remove","required":true}]}]},{"name":"ticketcat","description":"manage ticket categories","type":1,"options":[{"type":1,"name":"list","description":"list all ticket categories"},{"type":1,"name":"add","description":"add a ticket category","options":[{"type":3,"name":"category","description":"the category name","required":true},{"type":3,"name":"staff_roles","description":"the staff roles","required":false}]},{"type":1,"name":"remove","description":"remove a ticket category","options":[{"type":3,"name":"category","description":"the category name","required":true}]}]},{"name":"bigemoji","description":"enlarge an emoji","type":1,"options":[{"type":3,"name":"emoji","description":"emoji to enlarge","required":true}]},{"name":"covid","description":"get covid statistics for a country","type":1,"options":[{"type":3,"name":"country","description":"country name to get covid statistics for","required":true}]},{"name":"github","description":"shows github statistics of a user","type":1,"options":[{"type":3,"name":"username","description":"github username","required":true}]},{"name":"help","description":"command help menu","type":1,"options":[{"type":3,"name":"command","description":"name of the command","required":false}]},{"name":"paste","description":"Paste something in sourceb.in","type":1,"options":[{"type":3,"name":"title","description":"title for your content","required":true},{"type":3,"name":"content","description":"content to be posted to bin","required":true}]},{"name":"pokedex","description":"shows pokemon information","type":1,"options":[{"type":3,"name":"pokemon","description":"pokemon name to get information for","required":true}]},{"name":"proxies","description":"fetch proxies. Available types: http, socks4, socks5","type":1,"options":[{"type":3,"name":"type","description":"type of proxy","required":true,"choices":[{"name":"all","value":"all"},{"name":"http","value":"http"},{"name":"socks4","value":"socks4"},{"name":"socks5","value":"socks5"}]}]},{"name":"translate","description":"translate from one language to other","type":1,"options":[{"type":3,"name":"language","description":"translation language","required":true,"choices":[{"name":"Arabic","value":"ar"},{"name":"Czech","value":"cs"},{"name":"German","value":"de"},{"name":"English","value":"en"},{"name":"Persian","value":"fa"},{"name":"French","value":"fr"},{"name":"Hindi","value":"hi"},{"name":"Croatian","value":"hr"},{"name":"Italian","value":"it"},{"name":"Japanese","value":"ja"},{"name":"Korean","value":"ko"},{"name":"Latin","value":"la"},{"name":"Dutch","value":"nl"},{"name":"Polish","value":"pl"},{"name":"Tamil","value":"ta"},{"name":"Telugu","value":"te"}]},{"type":3,"name":"text","description":"the text that requires translation","required":true}]},{"name":"urban","description":"searches the urban dictionary","type":1,"options":[{"type":3,"name":"word","description":"the word for which you want to urban meaning","required":true}]},{"name":"weather","description":"get weather information","type":1,"options":[{"type":3,"name":"place","description":"country/city name to get weather information for","required":true}]}]},"rawError":{"code":50035,"errors":{"26":{"options":{"0":{"_errors":[{"code":"TAG_FIELD_MISSING","message":"Field \"type\" is required to determine the model type."}]}}}},"message":"Invalid Form Body"},"code":50035,"status":400,"method":"PUT","url":"https://discord.com/api/v10/applications/988089532970827787/guilds/1011919694464294932/commands"},"msg":"Client Error: Invalid Form Body\n26.options[0][TAG_FIELD_MISSING]: Field \"type\" is required to determine the model type."}
+{"level":50,"time":1671207734051,"pid":9024,"hostname":"Filo","err":{"type":"DiscordjsError","message":"The reply to this interaction has already been sent or deferred.","stack":"Error [InteractionAlreadyReplied]: The reply to this interaction has already been sent or deferred.\n    at ChatInputCommandInteraction.showModal (D:\\Projeler\\JavaScript\\Thunar v2\\node_modules\\discord.js\\src\\structures\\interfaces\\InteractionResponses.js:252:46)\n    at Object.interactionRun (D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\comliant.js:37:27)\n    at Object.handleSlashCommand (D:\\Projeler\\JavaScript\\Thunar v2\\src\\handlers\\command.js:140:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async module.exports (D:\\Projeler\\JavaScript\\Thunar v2\\src\\events\\interactions\\interactionCreate.js:18:5)","code":"InteractionAlreadyReplied"},"msg":"interactionRun: The reply to this interaction has already been sent or deferred."}
+{"level":30,"time":1671207749743,"pid":1784,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671207749743,"pid":1784,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671207749744,"pid":1784,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671207749772,"pid":1784,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671207750159,"pid":1784,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671207750159,"pid":1784,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671207750160,"pid":1784,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671207750163,"pid":1784,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671207750164,"pid":1784,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671207750165,"pid":1784,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671207750166,"pid":1784,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671207750167,"pid":1784,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671207750168,"pid":1784,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671207750176,"pid":1784,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671207750176,"pid":1784,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671207750177,"pid":1784,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671207750178,"pid":1784,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671207750179,"pid":1784,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671207750186,"pid":1784,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671207750187,"pid":1784,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671207750188,"pid":1784,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671207750188,"pid":1784,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671207750189,"pid":1784,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671207750189,"pid":1784,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671207750189,"pid":1784,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671207750190,"pid":1784,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671207750190,"pid":1784,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671207750191,"pid":1784,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671207750192,"pid":1784,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671207750192,"pid":1784,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671207750194,"pid":1784,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671207750195,"pid":1784,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671207750198,"pid":1784,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671207750199,"pid":1784,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671207750200,"pid":1784,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671207750201,"pid":1784,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671207750201,"pid":1784,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671207750202,"pid":1784,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671207750203,"pid":1784,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671207750203,"pid":1784,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671207750204,"pid":1784,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671207750204,"pid":1784,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671207750205,"pid":1784,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671207750205,"pid":1784,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671207750206,"pid":1784,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671207750206,"pid":1784,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671207750207,"pid":1784,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671207750207,"pid":1784,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671207750207,"pid":1784,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671207750222,"pid":1784,"hostname":"Filo","msg":"Loaded 89 commands"}
+{"level":30,"time":1671207750222,"pid":1784,"hostname":"Filo","msg":"Loaded 70 slash commands"}
+{"level":30,"time":1671207750222,"pid":1784,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671207750223,"pid":1784,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671207750223,"pid":1784,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671207750223,"pid":1784,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671207750253,"pid":1784,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671207750690,"pid":1784,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671207750690,"pid":1784,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671207750792,"pid":1784,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671207752645,"pid":1784,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671207752676,"pid":1784,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671207753975,"pid":1784,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671207753975,"pid":1784,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671207754169,"pid":1784,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671207754462,"pid":1784,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":30,"time":1671222707767,"pid":6340,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671222707780,"pid":6340,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671222707780,"pid":6340,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671222708867,"pid":6340,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671222714234,"pid":6340,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671222714235,"pid":6340,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671222714235,"pid":6340,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671222714238,"pid":6340,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671222714240,"pid":6340,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671222714240,"pid":6340,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671222714241,"pid":6340,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671222714242,"pid":6340,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671222714243,"pid":6340,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671222714288,"pid":6340,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671222714289,"pid":6340,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671222714290,"pid":6340,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671222714291,"pid":6340,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671222714292,"pid":6340,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671222714301,"pid":6340,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671222714302,"pid":6340,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671222714303,"pid":6340,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671222714303,"pid":6340,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671222714303,"pid":6340,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671222714304,"pid":6340,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671222714304,"pid":6340,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671222714305,"pid":6340,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671222714305,"pid":6340,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671222714306,"pid":6340,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671222714306,"pid":6340,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671222714307,"pid":6340,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671222714318,"pid":6340,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671222714319,"pid":6340,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671222714322,"pid":6340,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671222714323,"pid":6340,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671222714325,"pid":6340,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671222714357,"pid":6340,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671222714358,"pid":6340,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671222714360,"pid":6340,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671222714361,"pid":6340,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671222714361,"pid":6340,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671222714362,"pid":6340,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671222714363,"pid":6340,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671222714363,"pid":6340,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671222714363,"pid":6340,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671222714364,"pid":6340,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671222714364,"pid":6340,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671222714365,"pid":6340,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671222714365,"pid":6340,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671222714366,"pid":6340,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671222714429,"pid":6340,"hostname":"Filo","msg":"Loaded 90 commands"}
+{"level":30,"time":1671222714429,"pid":6340,"hostname":"Filo","msg":"Loaded 71 slash commands"}
+{"level":30,"time":1671222714429,"pid":6340,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671222714430,"pid":6340,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671222714430,"pid":6340,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671222714430,"pid":6340,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671222714480,"pid":6340,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671222715000,"pid":6340,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671222715000,"pid":6340,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671222718097,"pid":6340,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671222719988,"pid":6340,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671222720043,"pid":6340,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671222721372,"pid":6340,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671222721372,"pid":6340,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671222721557,"pid":6340,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671222722042,"pid":6340,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":30,"time":1671223076818,"pid":12324,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671223076819,"pid":12324,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671223076819,"pid":12324,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671223076850,"pid":12324,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671223077227,"pid":12324,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671223077228,"pid":12324,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671223077228,"pid":12324,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671223077231,"pid":12324,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671223077233,"pid":12324,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671223077233,"pid":12324,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671223077234,"pid":12324,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671223077236,"pid":12324,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671223077236,"pid":12324,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671223077244,"pid":12324,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671223077245,"pid":12324,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671223077245,"pid":12324,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671223077247,"pid":12324,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671223077247,"pid":12324,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671223077255,"pid":12324,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671223077256,"pid":12324,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671223077256,"pid":12324,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671223077257,"pid":12324,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671223077257,"pid":12324,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671223077258,"pid":12324,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671223077258,"pid":12324,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671223077259,"pid":12324,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671223077259,"pid":12324,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671223077260,"pid":12324,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671223077260,"pid":12324,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671223077261,"pid":12324,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671223077263,"pid":12324,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671223077263,"pid":12324,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671223077267,"pid":12324,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671223077268,"pid":12324,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671223077269,"pid":12324,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671223077270,"pid":12324,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671223077271,"pid":12324,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671223077271,"pid":12324,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671223077272,"pid":12324,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671223077272,"pid":12324,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671223077273,"pid":12324,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671223077273,"pid":12324,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671223077273,"pid":12324,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671223077274,"pid":12324,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671223077274,"pid":12324,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671223077274,"pid":12324,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671223077275,"pid":12324,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671223077275,"pid":12324,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671223077276,"pid":12324,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671223077291,"pid":12324,"hostname":"Filo","msg":"Loaded 90 commands"}
+{"level":30,"time":1671223077291,"pid":12324,"hostname":"Filo","msg":"Loaded 71 slash commands"}
+{"level":30,"time":1671223077291,"pid":12324,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671223077292,"pid":12324,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671223077292,"pid":12324,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671223077292,"pid":12324,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671223077321,"pid":12324,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671223077746,"pid":12324,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671223077746,"pid":12324,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671223077849,"pid":12324,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671223079360,"pid":12324,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671223079390,"pid":12324,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671223080714,"pid":12324,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671223080714,"pid":12324,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671223080878,"pid":12324,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671223081219,"pid":12324,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":30,"time":1671223275787,"pid":16324,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671223275788,"pid":16324,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671223275788,"pid":16324,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671223275817,"pid":16324,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671223276230,"pid":16324,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671223276231,"pid":16324,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671223276232,"pid":16324,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671223276236,"pid":16324,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671223276238,"pid":16324,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671223276240,"pid":16324,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671223276241,"pid":16324,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671223276243,"pid":16324,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671223276244,"pid":16324,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671223276252,"pid":16324,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671223276253,"pid":16324,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671223276254,"pid":16324,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671223276256,"pid":16324,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671223276257,"pid":16324,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671223276264,"pid":16324,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671223276265,"pid":16324,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671223276266,"pid":16324,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671223276266,"pid":16324,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671223276267,"pid":16324,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671223276267,"pid":16324,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671223276268,"pid":16324,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671223276268,"pid":16324,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671223276269,"pid":16324,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671223276270,"pid":16324,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671223276272,"pid":16324,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671223276272,"pid":16324,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671223276274,"pid":16324,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671223276275,"pid":16324,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671223276279,"pid":16324,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671223276280,"pid":16324,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671223276281,"pid":16324,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671223276282,"pid":16324,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671223276282,"pid":16324,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671223276283,"pid":16324,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671223276284,"pid":16324,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671223276284,"pid":16324,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671223276285,"pid":16324,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671223276285,"pid":16324,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671223276286,"pid":16324,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671223276286,"pid":16324,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671223276287,"pid":16324,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671223276287,"pid":16324,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671223276288,"pid":16324,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671223276289,"pid":16324,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671223276289,"pid":16324,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671223276319,"pid":16324,"hostname":"Filo","msg":"Loaded 90 commands"}
+{"level":30,"time":1671223276319,"pid":16324,"hostname":"Filo","msg":"Loaded 71 slash commands"}
+{"level":30,"time":1671223276320,"pid":16324,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671223276321,"pid":16324,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671223276321,"pid":16324,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671223276321,"pid":16324,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671223276382,"pid":16324,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671223276845,"pid":16324,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671223276845,"pid":16324,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671223276975,"pid":16324,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671223278487,"pid":16324,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671223278509,"pid":16324,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671223279874,"pid":16324,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671223279874,"pid":16324,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671223280037,"pid":16324,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671223280471,"pid":16324,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":30,"time":1671223489324,"pid":2332,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671223489325,"pid":2332,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671223489325,"pid":2332,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671223489354,"pid":2332,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671223489815,"pid":2332,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671223489815,"pid":2332,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671223489816,"pid":2332,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671223489819,"pid":2332,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671223489820,"pid":2332,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671223489821,"pid":2332,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671223489822,"pid":2332,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671223489823,"pid":2332,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671223489825,"pid":2332,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671223489835,"pid":2332,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671223489836,"pid":2332,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671223489837,"pid":2332,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671223489838,"pid":2332,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671223489839,"pid":2332,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671223489849,"pid":2332,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671223489850,"pid":2332,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671223489851,"pid":2332,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671223489852,"pid":2332,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671223489852,"pid":2332,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671223489853,"pid":2332,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671223489853,"pid":2332,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671223489854,"pid":2332,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671223489854,"pid":2332,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671223489855,"pid":2332,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671223489855,"pid":2332,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671223489856,"pid":2332,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671223489860,"pid":2332,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671223489861,"pid":2332,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671223489865,"pid":2332,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671223489866,"pid":2332,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671223489867,"pid":2332,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671223489868,"pid":2332,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671223489869,"pid":2332,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671223489869,"pid":2332,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671223489870,"pid":2332,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671223489870,"pid":2332,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671223489871,"pid":2332,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671223489871,"pid":2332,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671223489872,"pid":2332,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671223489872,"pid":2332,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671223489872,"pid":2332,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671223489873,"pid":2332,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671223489874,"pid":2332,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671223489875,"pid":2332,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671223489878,"pid":2332,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671223489895,"pid":2332,"hostname":"Filo","msg":"Loaded 90 commands"}
+{"level":30,"time":1671223489895,"pid":2332,"hostname":"Filo","msg":"Loaded 71 slash commands"}
+{"level":30,"time":1671223489895,"pid":2332,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671223489896,"pid":2332,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671223489896,"pid":2332,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671223489896,"pid":2332,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671223489927,"pid":2332,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671223490859,"pid":2332,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671223490859,"pid":2332,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671223490973,"pid":2332,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671223492657,"pid":2332,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671223492684,"pid":2332,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671223494363,"pid":2332,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671223494364,"pid":2332,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671223494548,"pid":2332,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671223494889,"pid":2332,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":30,"time":1671224034751,"pid":16988,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671224034753,"pid":16988,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671224034753,"pid":16988,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671224034804,"pid":16988,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671224035326,"pid":16988,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671224035327,"pid":16988,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671224035328,"pid":16988,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671224035330,"pid":16988,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671224035332,"pid":16988,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671224035332,"pid":16988,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671224035334,"pid":16988,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671224035336,"pid":16988,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671224035337,"pid":16988,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671224035346,"pid":16988,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671224035347,"pid":16988,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671224035348,"pid":16988,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671224035349,"pid":16988,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671224035350,"pid":16988,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671224035359,"pid":16988,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671224035360,"pid":16988,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671224035361,"pid":16988,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671224035362,"pid":16988,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671224035362,"pid":16988,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671224035363,"pid":16988,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671224035363,"pid":16988,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671224035363,"pid":16988,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671224035364,"pid":16988,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671224035364,"pid":16988,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671224035365,"pid":16988,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671224035366,"pid":16988,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671224035368,"pid":16988,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671224035369,"pid":16988,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671224035374,"pid":16988,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671224035375,"pid":16988,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671224035376,"pid":16988,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671224035378,"pid":16988,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671224035378,"pid":16988,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671224035379,"pid":16988,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671224035379,"pid":16988,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671224035380,"pid":16988,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671224035380,"pid":16988,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671224035381,"pid":16988,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671224035381,"pid":16988,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671224035381,"pid":16988,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671224035382,"pid":16988,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671224035382,"pid":16988,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671224035383,"pid":16988,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671224035383,"pid":16988,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671224035384,"pid":16988,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671224035401,"pid":16988,"hostname":"Filo","msg":"Loaded 91 commands"}
+{"level":30,"time":1671224035401,"pid":16988,"hostname":"Filo","msg":"Loaded 72 slash commands"}
+{"level":30,"time":1671224035401,"pid":16988,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671224035402,"pid":16988,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671224035402,"pid":16988,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671224035402,"pid":16988,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671224035436,"pid":16988,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671224035925,"pid":16988,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671224035925,"pid":16988,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671224036065,"pid":16988,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671224037554,"pid":16988,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671224037600,"pid":16988,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671224039188,"pid":16988,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671224039188,"pid":16988,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671224039389,"pid":16988,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671224039761,"pid":16988,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":50,"time":1671224053731,"pid":16988,"hostname":"Filo","err":{"type":"DiscordjsError","message":"Option \"botid\" is of type: 3; expected 7.","stack":"TypeError [CommandInteractionOptionType]: Option \"botid\" is of type: 3; expected 7.\n    at CommandInteractionOptionResolver._getTypedOption (D:\\Projeler\\JavaScript\\Thunar v2\\node_modules\\discord.js\\src\\structures\\CommandInteractionOptionResolver.js:99:13)\n    at CommandInteractionOptionResolver.getChannel (D:\\Projeler\\JavaScript\\Thunar v2\\node_modules\\discord.js\\src\\structures\\CommandInteractionOptionResolver.js:149:25)\n    at Object.interactionRun (D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\utility\\addbot.js:56:40)\n    at Object.handleSlashCommand (D:\\Projeler\\JavaScript\\Thunar v2\\src\\handlers\\command.js:140:17)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async module.exports (D:\\Projeler\\JavaScript\\Thunar v2\\src\\events\\interactions\\interactionCreate.js:18:5)","code":"CommandInteractionOptionType"},"msg":"interactionRun: Option \"botid\" is of type: 3; expected 7."}
+{"level":30,"time":1671224069417,"pid":18640,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671224069419,"pid":18640,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671224069419,"pid":18640,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671224069462,"pid":18640,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671224070198,"pid":18640,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671224070199,"pid":18640,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671224070200,"pid":18640,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671224070205,"pid":18640,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671224070207,"pid":18640,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671224070207,"pid":18640,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671224070209,"pid":18640,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671224070210,"pid":18640,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671224070210,"pid":18640,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671224070222,"pid":18640,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671224070222,"pid":18640,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671224070223,"pid":18640,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671224070225,"pid":18640,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671224070225,"pid":18640,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671224070234,"pid":18640,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671224070236,"pid":18640,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671224070237,"pid":18640,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671224070238,"pid":18640,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671224070239,"pid":18640,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671224070240,"pid":18640,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671224070240,"pid":18640,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671224070240,"pid":18640,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671224070241,"pid":18640,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671224070242,"pid":18640,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671224070242,"pid":18640,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671224070243,"pid":18640,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671224070244,"pid":18640,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671224070245,"pid":18640,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671224070250,"pid":18640,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671224070252,"pid":18640,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671224070255,"pid":18640,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671224070258,"pid":18640,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671224070258,"pid":18640,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671224070259,"pid":18640,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671224070260,"pid":18640,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671224070260,"pid":18640,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671224070261,"pid":18640,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671224070261,"pid":18640,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671224070261,"pid":18640,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671224070262,"pid":18640,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671224070262,"pid":18640,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671224070263,"pid":18640,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671224070263,"pid":18640,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671224070263,"pid":18640,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671224070264,"pid":18640,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671224070287,"pid":18640,"hostname":"Filo","msg":"Loaded 91 commands"}
+{"level":30,"time":1671224070287,"pid":18640,"hostname":"Filo","msg":"Loaded 72 slash commands"}
+{"level":30,"time":1671224070287,"pid":18640,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671224070289,"pid":18640,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671224070289,"pid":18640,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671224070289,"pid":18640,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671224070327,"pid":18640,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671224070777,"pid":18640,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671224070778,"pid":18640,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671224070933,"pid":18640,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671224072202,"pid":18640,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671224072224,"pid":18640,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671224073535,"pid":18640,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671224073535,"pid":18640,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671224073702,"pid":18640,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671224074370,"pid":18640,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":50,"time":1671224079032,"pid":18640,"hostname":"Filo","err":{"type":"ReferenceError","message":"logchannel is not defined","stack":"ReferenceError: logchannel is not defined\n    at Object.interactionRun (D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\utility\\addbot.js:91:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.handleSlashCommand (D:\\Projeler\\JavaScript\\Thunar v2\\src\\handlers\\command.js:140:7)\n    at async module.exports (D:\\Projeler\\JavaScript\\Thunar v2\\src\\events\\interactions\\interactionCreate.js:18:5)"},"msg":"interactionRun: logchannel is not defined"}
+{"level":30,"time":1671224091621,"pid":8200,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671224091622,"pid":8200,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671224091622,"pid":8200,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671224091658,"pid":8200,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671224092227,"pid":8200,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671224092229,"pid":8200,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671224092230,"pid":8200,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671224092237,"pid":8200,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671224092239,"pid":8200,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671224092240,"pid":8200,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671224092242,"pid":8200,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671224092244,"pid":8200,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671224092245,"pid":8200,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671224092263,"pid":8200,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671224092265,"pid":8200,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671224092268,"pid":8200,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671224092272,"pid":8200,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671224092274,"pid":8200,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671224092290,"pid":8200,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671224092291,"pid":8200,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671224092292,"pid":8200,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671224092293,"pid":8200,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671224092294,"pid":8200,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671224092295,"pid":8200,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671224092296,"pid":8200,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671224092297,"pid":8200,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671224092298,"pid":8200,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671224092300,"pid":8200,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671224092301,"pid":8200,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671224092303,"pid":8200,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671224092305,"pid":8200,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671224092306,"pid":8200,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671224092310,"pid":8200,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671224092313,"pid":8200,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671224092315,"pid":8200,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671224092317,"pid":8200,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671224092318,"pid":8200,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671224092319,"pid":8200,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671224092320,"pid":8200,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671224092321,"pid":8200,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671224092322,"pid":8200,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671224092322,"pid":8200,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671224092322,"pid":8200,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671224092323,"pid":8200,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671224092323,"pid":8200,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671224092324,"pid":8200,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671224092324,"pid":8200,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671224092325,"pid":8200,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671224092325,"pid":8200,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671224092359,"pid":8200,"hostname":"Filo","msg":"Loaded 91 commands"}
+{"level":30,"time":1671224092359,"pid":8200,"hostname":"Filo","msg":"Loaded 72 slash commands"}
+{"level":30,"time":1671224092359,"pid":8200,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671224092461,"pid":8200,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671224092462,"pid":8200,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671224092462,"pid":8200,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671224092528,"pid":8200,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671224093085,"pid":8200,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671224093085,"pid":8200,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671224093224,"pid":8200,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671224094757,"pid":8200,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671224094785,"pid":8200,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671224096309,"pid":8200,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671224096310,"pid":8200,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671224096505,"pid":8200,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671224100290,"pid":8200,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":30,"time":1671224167468,"pid":8932,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671224167469,"pid":8932,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671224167469,"pid":8932,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671224167507,"pid":8932,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671224168214,"pid":8932,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671224168215,"pid":8932,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671224168216,"pid":8932,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671224168219,"pid":8932,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671224168222,"pid":8932,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671224168227,"pid":8932,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671224168230,"pid":8932,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671224168232,"pid":8932,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671224168233,"pid":8932,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671224168247,"pid":8932,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671224168248,"pid":8932,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671224168249,"pid":8932,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671224168250,"pid":8932,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671224168251,"pid":8932,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671224168263,"pid":8932,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671224168264,"pid":8932,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671224168265,"pid":8932,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671224168265,"pid":8932,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671224168266,"pid":8932,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671224168267,"pid":8932,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671224168267,"pid":8932,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671224168268,"pid":8932,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671224168269,"pid":8932,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671224168272,"pid":8932,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671224168276,"pid":8932,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671224168279,"pid":8932,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671224168281,"pid":8932,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671224168282,"pid":8932,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671224168287,"pid":8932,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671224168291,"pid":8932,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671224168294,"pid":8932,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671224168296,"pid":8932,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671224168297,"pid":8932,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671224168298,"pid":8932,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671224168299,"pid":8932,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671224168299,"pid":8932,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671224168300,"pid":8932,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671224168300,"pid":8932,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671224168301,"pid":8932,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671224168301,"pid":8932,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671224168301,"pid":8932,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671224168302,"pid":8932,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671224168303,"pid":8932,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671224168304,"pid":8932,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671224168305,"pid":8932,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671224168339,"pid":8932,"hostname":"Filo","msg":"Loaded 91 commands"}
+{"level":30,"time":1671224168339,"pid":8932,"hostname":"Filo","msg":"Loaded 72 slash commands"}
+{"level":30,"time":1671224168339,"pid":8932,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671224168342,"pid":8932,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671224168342,"pid":8932,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671224168342,"pid":8932,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671224168380,"pid":8932,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671224168655,"pid":8932,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671224168655,"pid":8932,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671224168809,"pid":8932,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671224170545,"pid":8932,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671224170565,"pid":8932,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671224171929,"pid":8932,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671224171929,"pid":8932,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671224172128,"pid":8932,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671224172416,"pid":8932,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":50,"time":1671224174806,"pid":8932,"hostname":"Filo","err":{"type":"TypeError","message":"Class constructor EmbedBuilder cannot be invoked without 'new'","stack":"TypeError: Class constructor EmbedBuilder cannot be invoked without 'new'\n    at Object.interactionRun (D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\utility\\addbot.js:81:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.handleSlashCommand (D:\\Projeler\\JavaScript\\Thunar v2\\src\\handlers\\command.js:140:7)\n    at async module.exports (D:\\Projeler\\JavaScript\\Thunar v2\\src\\events\\interactions\\interactionCreate.js:18:5)"},"msg":"interactionRun: Class constructor EmbedBuilder cannot be invoked without 'new'"}
+{"level":30,"time":1671224198222,"pid":14528,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671224198224,"pid":14528,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671224198224,"pid":14528,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671224198264,"pid":14528,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671224199072,"pid":14528,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671224199074,"pid":14528,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671224199076,"pid":14528,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671224199082,"pid":14528,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671224199084,"pid":14528,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671224199085,"pid":14528,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671224199086,"pid":14528,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671224199087,"pid":14528,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671224199090,"pid":14528,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671224199105,"pid":14528,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671224199108,"pid":14528,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671224199110,"pid":14528,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671224199114,"pid":14528,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671224199115,"pid":14528,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671224199128,"pid":14528,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671224199130,"pid":14528,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671224199131,"pid":14528,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671224199132,"pid":14528,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671224199133,"pid":14528,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671224199133,"pid":14528,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671224199134,"pid":14528,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671224199134,"pid":14528,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671224199135,"pid":14528,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671224199136,"pid":14528,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671224199137,"pid":14528,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671224199138,"pid":14528,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671224199143,"pid":14528,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671224199145,"pid":14528,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671224199151,"pid":14528,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671224199152,"pid":14528,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671224199153,"pid":14528,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671224199156,"pid":14528,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671224199157,"pid":14528,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671224199158,"pid":14528,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671224199160,"pid":14528,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671224199161,"pid":14528,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671224199162,"pid":14528,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671224199164,"pid":14528,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671224199164,"pid":14528,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671224199165,"pid":14528,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671224199165,"pid":14528,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671224199166,"pid":14528,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671224199166,"pid":14528,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671224199167,"pid":14528,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671224199167,"pid":14528,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671224199217,"pid":14528,"hostname":"Filo","msg":"Loaded 91 commands"}
+{"level":30,"time":1671224199217,"pid":14528,"hostname":"Filo","msg":"Loaded 72 slash commands"}
+{"level":30,"time":1671224199217,"pid":14528,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671224199218,"pid":14528,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671224199218,"pid":14528,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671224199219,"pid":14528,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671224199267,"pid":14528,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671224199702,"pid":14528,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671224199702,"pid":14528,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671224199819,"pid":14528,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671224201081,"pid":14528,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671224201101,"pid":14528,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671224202249,"pid":14528,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671224202249,"pid":14528,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671224202443,"pid":14528,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671224202691,"pid":14528,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":30,"time":1671224231335,"pid":3272,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671224231336,"pid":3272,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671224231336,"pid":3272,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671224231376,"pid":3272,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671224232062,"pid":3272,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671224232063,"pid":3272,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671224232065,"pid":3272,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671224232069,"pid":3272,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671224232071,"pid":3272,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671224232081,"pid":3272,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671224232089,"pid":3272,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671224232092,"pid":3272,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671224232095,"pid":3272,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671224232125,"pid":3272,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671224232126,"pid":3272,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671224232129,"pid":3272,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671224232137,"pid":3272,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671224232139,"pid":3272,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671224232160,"pid":3272,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671224232164,"pid":3272,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671224232167,"pid":3272,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671224232168,"pid":3272,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671224232169,"pid":3272,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671224232170,"pid":3272,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671224232171,"pid":3272,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671224232172,"pid":3272,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671224232174,"pid":3272,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671224232177,"pid":3272,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671224232180,"pid":3272,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671224232186,"pid":3272,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671224232189,"pid":3272,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671224232191,"pid":3272,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671224232199,"pid":3272,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671224232202,"pid":3272,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671224232204,"pid":3272,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671224232210,"pid":3272,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671224232213,"pid":3272,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671224232218,"pid":3272,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671224232219,"pid":3272,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671224232220,"pid":3272,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671224232221,"pid":3272,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671224232222,"pid":3272,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671224232223,"pid":3272,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671224232225,"pid":3272,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671224232226,"pid":3272,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671224232227,"pid":3272,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671224232229,"pid":3272,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671224232229,"pid":3272,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671224232230,"pid":3272,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671224232271,"pid":3272,"hostname":"Filo","msg":"Loaded 91 commands"}
+{"level":30,"time":1671224232271,"pid":3272,"hostname":"Filo","msg":"Loaded 72 slash commands"}
+{"level":30,"time":1671224232271,"pid":3272,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671224232273,"pid":3272,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671224232273,"pid":3272,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671224232273,"pid":3272,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671224232314,"pid":3272,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671224232714,"pid":3272,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671224232714,"pid":3272,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671224232831,"pid":3272,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671224234386,"pid":3272,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671224234406,"pid":3272,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671224235660,"pid":3272,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671224235660,"pid":3272,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671224235854,"pid":3272,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671224236235,"pid":3272,"hostname":"Filo","msg":"Successfully registered interactions"}
+{"level":50,"time":1671224240355,"pid":3272,"hostname":"Filo","err":{"type":"TypeError","message":"this.options.embeds?.map is not a function","stack":"TypeError: this.options.embeds?.map is not a function\n    at MessagePayload.resolveBody (D:\\Projeler\\JavaScript\\Thunar v2\\node_modules\\discord.js\\src\\structures\\MessagePayload.js:201:36)\n    at TextChannel.send (D:\\Projeler\\JavaScript\\Thunar v2\\node_modules\\discord.js\\src\\structures\\interfaces\\TextBasedChannel.js:172:61)\n    at Object.interactionRun (D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\utility\\addbot.js:83:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.handleSlashCommand (D:\\Projeler\\JavaScript\\Thunar v2\\src\\handlers\\command.js:140:7)\n    at async module.exports (D:\\Projeler\\JavaScript\\Thunar v2\\src\\events\\interactions\\interactionCreate.js:18:5)"},"msg":"Unhandled exception: this.options.embeds?.map is not a function"}
+{"level":30,"time":1671224286658,"pid":18656,"hostname":"Filo","msg":"Validating config file and environment variables"}
+{"level":40,"time":1671224286659,"pid":18656,"hostname":"Filo","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":40,"time":1671224286659,"pid":18656,"hostname":"Filo","msg":"env: STRANGE_API_KEY is missing. Image commands won't work"}
+{"level":30,"time":1671224286715,"pid":18656,"hostname":"Filo","msg":"Loading commands..."}
+{"level":20,"time":1671224287425,"pid":18656,"hostname":"Filo","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1671224287427,"pid":18656,"hostname":"Filo","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1671224287428,"pid":18656,"hostname":"Filo","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":50,"time":1671224287431,"pid":18656,"hostname":"Filo","msg":"Failed to load D:\\Projeler\\JavaScript\\Thunar v2\\src\\commands\\information\\leaderboard.js Reason: Alias lb already registered"}
+{"level":20,"time":1671224287432,"pid":18656,"hostname":"Filo","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1671224287433,"pid":18656,"hostname":"Filo","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1671224287435,"pid":18656,"hostname":"Filo","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1671224287436,"pid":18656,"hostname":"Filo","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1671224287438,"pid":18656,"hostname":"Filo","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1671224287448,"pid":18656,"hostname":"Filo","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1671224287449,"pid":18656,"hostname":"Filo","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1671224287450,"pid":18656,"hostname":"Filo","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1671224287451,"pid":18656,"hostname":"Filo","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1671224287452,"pid":18656,"hostname":"Filo","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1671224287464,"pid":18656,"hostname":"Filo","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1671224287464,"pid":18656,"hostname":"Filo","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1671224287465,"pid":18656,"hostname":"Filo","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1671224287466,"pid":18656,"hostname":"Filo","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1671224287466,"pid":18656,"hostname":"Filo","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1671224287467,"pid":18656,"hostname":"Filo","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1671224287467,"pid":18656,"hostname":"Filo","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1671224287468,"pid":18656,"hostname":"Filo","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1671224287468,"pid":18656,"hostname":"Filo","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1671224287469,"pid":18656,"hostname":"Filo","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1671224287471,"pid":18656,"hostname":"Filo","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1671224287474,"pid":18656,"hostname":"Filo","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1671224287476,"pid":18656,"hostname":"Filo","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1671224287477,"pid":18656,"hostname":"Filo","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1671224287481,"pid":18656,"hostname":"Filo","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1671224287482,"pid":18656,"hostname":"Filo","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1671224287483,"pid":18656,"hostname":"Filo","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1671224287484,"pid":18656,"hostname":"Filo","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1671224287485,"pid":18656,"hostname":"Filo","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1671224287486,"pid":18656,"hostname":"Filo","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1671224287487,"pid":18656,"hostname":"Filo","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1671224287488,"pid":18656,"hostname":"Filo","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1671224287490,"pid":18656,"hostname":"Filo","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1671224287491,"pid":18656,"hostname":"Filo","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1671224287492,"pid":18656,"hostname":"Filo","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1671224287492,"pid":18656,"hostname":"Filo","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1671224287493,"pid":18656,"hostname":"Filo","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1671224287493,"pid":18656,"hostname":"Filo","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1671224287494,"pid":18656,"hostname":"Filo","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1671224287494,"pid":18656,"hostname":"Filo","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1671224287495,"pid":18656,"hostname":"Filo","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1671224287523,"pid":18656,"hostname":"Filo","msg":"Loaded 91 commands"}
+{"level":30,"time":1671224287523,"pid":18656,"hostname":"Filo","msg":"Loaded 72 slash commands"}
+{"level":30,"time":1671224287523,"pid":18656,"hostname":"Filo","msg":"Loading contexts..."}
+{"level":30,"time":1671224287525,"pid":18656,"hostname":"Filo","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1671224287525,"pid":18656,"hostname":"Filo","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1671224287525,"pid":18656,"hostname":"Filo","msg":"Loading events..."}
+{"level":30,"time":1671224287559,"pid":18656,"hostname":"Filo","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1671224288038,"pid":18656,"hostname":"Filo","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1671224288039,"pid":18656,"hostname":"Filo","msg":"Launching dashboard"}
+{"level":30,"time":1671224288166,"pid":18656,"hostname":"Filo","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1671224289574,"pid":18656,"hostname":"Filo","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1671224289592,"pid":18656,"hostname":"Filo","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1671224290995,"pid":18656,"hostname":"Filo","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1671224290995,"pid":18656,"hostname":"Filo","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1671224291193,"pid":18656,"hostname":"Filo","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1671224291509,"pid":18656,"hostname":"Filo","msg":"Successfully registered interactions"}
