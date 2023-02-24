@@ -3,7 +3,7 @@ const {PREFIX_COMMANDS, EMBED_COLORS} = require("@root/config");
 const {getSettings} = require("@schemas/Guild");
 const {EmbedBuilder, ActionRowBuilder, ButtonBuilder} = require("discord.js")
 const Beta = require("../../../models/BetaTester")
-const {betaversion, version, preversion} = require("../../../config.json")
+const {betaversion, version, preversion, mastercodename, versionname, betaversionname} = require("../../../config.json")
 
 /**
  * @param {import('@src/structures').BotClient} client
@@ -44,6 +44,11 @@ module.exports = async (client, message) => {
                         <:list1:1060976567758630922>**Beta Version:** \`${betaversion}\`
                         <:listend:1060976814622785607>**Alpha Version:** \`${version}\`
 
+                        **• Version Names**
+                        <:list1:1060976567758630922>**Master Code Name:** \`${mastercodename}\`
+                        <:list1:1060976567758630922>**Beta Code Name:** \`${betaversionname}\`
+                        <:listend:1060976814622785607>**Alpha Code Name:** \`${versionname}\`
+
                         **• Release Channels**
                         <:list1:1060976567758630922>**${preversion}:** \`Preview Release Channel\`
                         <:list1:1060976567758630922>**${betaversion}:** \`Beta Release Channel\`
@@ -62,6 +67,7 @@ module.exports = async (client, message) => {
                     .setTitle("Thunar Continues to Serve...")
                     .setDescription(`
                         • **Version You Have Access:** \`${betaversion}\`
+                        • **Version Name You Have Access:**: \`${mastercodename} - ${betaversionname}\`
                         • **Your Access Channel:** \`Beta Releases\`
                         • **My prefix is:** { \`${settings.prefix}\` } (Message Prefix)
                         • **My prefix is:** { \`/\` } (Slash Command Prefix)
@@ -76,6 +82,7 @@ module.exports = async (client, message) => {
                     .setTitle("Thunar Continues to Serve...")
                     .setDescription(`
                         • **Version You Have Access:** \`${version}\`
+                        • **Version Name You Have Access:**: \`${mastercodename} - ${versionname}\`
                         • **Your Access Channel:** \`Alpha Releases\`
                         • **My prefix is:** { \`${settings.prefix}\` } (Message Prefix)
                         • **My prefix is:** { \`/\` } (Slash Command Prefix)

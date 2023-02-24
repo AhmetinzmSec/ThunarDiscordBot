@@ -14,7 +14,7 @@ module.exports = {
         TEST_GUILD_ID: "1011919694464294932", // Guild ID where the interactions should be registered. [** Test you commands here first **]
     },
     EMBED_COLORS: {
-        BOT_EMBED: "#2f3136",
+        BOT_EMBED: "#040405",
         TRANSPARENT: "#2f3136",
         SUCCESS: "#2f3136",
         ERROR: "#D61A3C",
@@ -108,7 +108,7 @@ module.exports = {
         ENABLED: true, // Whether or not the bot should update its status
         STATUS: "online", // The bot's status [online, idle, dnd, invisible]
         TYPE: "PLAYING", // Status type for the bot [PLAYING | LISTENING | WATCHING | COMPETING]
-        MESSAGE: `Thunar Beta ・ ${versionname}`, // Your bot status message
+        MESSAGE: `Thunar Beta || ${versionname}`, // Your bot status message
     },
 
     STATS: {

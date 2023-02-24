@@ -4,8 +4,10 @@
     "dblToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijk2MzQwNjA2MDE1MDk4NDc2NCIsImJvdCI6dHJ1ZSwiaWF0IjoxNjcyNDc4MTE1fQ.iEIuAtbA7kQEH-DbH6fB53NTM826zC1RZLsHFbIFjvM",
     "versionalpha": "v2.0.0 Alpha",
     "version": "v2.0.0-alpha.1",
-    "betaversion": "v2.0.2-beta.3",
-    "preversion": "v2.23.22.01-preview.1",
-    "versionname": "BÖRÜ"
+    "betaversion": "v2.0.7-beta.2",
+    "preversion": "v2.72.22.02-preview.1",
+    "mastercodename": "Stellarium",
+    "versionname": "ANKA",
+    "betaversionname": "Space"
 
 }
