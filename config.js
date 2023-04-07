@@ -1,4 +1,4 @@
-const {versionname} = require("./config.json")
+const {betaversion} = require("./config.json")
 
 module.exports = {
     OWNER_IDS: ["801006452416184330"], // Bot owner ID's
@@ -14,9 +14,9 @@ module.exports = {
         TEST_GUILD_ID: "1011919694464294932", // Guild ID where the interactions should be registered. [** Test you commands here first **]
     },
     EMBED_COLORS: {
-        BOT_EMBED: "#040405",
-        TRANSPARENT: "#2f3136",
-        SUCCESS: "#2f3136",
+        BOT_EMBED: "#2b2d31",
+        TRANSPARENT: "#2b2d31",
+        SUCCESS: "#2b2d31",
         ERROR: "#D61A3C",
         WARNING: "#F7E919",
     },
@@ -33,8 +33,8 @@ module.exports = {
 
     AUTOMOD: {
         ENABLED: true,
-        LOG_EMBED: "#2f3136",
-        DM_EMBED: "#2f3136",
+        LOG_EMBED: "#2b2d31",
+        DM_EMBED: "#2b2d31",
     },
 
     DASHBOARD: {
@@ -73,8 +73,8 @@ module.exports = {
     GIVEAWAYS: {
         ENABLED: true,
         REACTION: "🎁",
-        START_EMBED: "#2f3136",
-        END_EMBED: "#2f3136",
+        START_EMBED: "#2b2d31",
+        END_EMBED: "#2b2d31",
     },
 
     IMAGE: {
@@ -89,18 +89,18 @@ module.exports = {
     MODERATION: {
         ENABLED: true,
         EMBED_COLORS: {
-            TIMEOUT: "#2f3136",
-            UNTIMEOUT: "#2f3136",
-            KICK: "#2f3136",
-            SOFTBAN: "#2f3136",
-            BAN: "#2f3136",
-            UNBAN: "#2f3136",
-            VMUTE: "#2f3136",
-            VUNMUTE: "#2f3136",
-            DEAFEN: "#2f3136",
-            UNDEAFEN: "#2f3136",
-            DISCONNECT: "#2f3136",
-            MOVE: "#2f3136",
+            TIMEOUT: "#2b2d31",
+            UNTIMEOUT: "#2b2d31",
+            KICK: "#2b2d31",
+            SOFTBAN: "#2b2d31",
+            BAN: "#2b2d31",
+            UNBAN: "#2b2d31",
+            VMUTE: "#2b2d31",
+            VUNMUTE: "#2b2d31",
+            DEAFEN: "#2b2d31",
+            UNDEAFEN: "#2b2d31",
+            DISCONNECT: "#2b2d31",
+            MOVE: "#2b2d31",
         },
     },
 
@@ -108,7 +108,7 @@ module.exports = {
         ENABLED: true, // Whether or not the bot should update its status
         STATUS: "online", // The bot's status [online, idle, dnd, invisible]
         TYPE: "PLAYING", // Status type for the bot [PLAYING | LISTENING | WATCHING | COMPETING]
-        MESSAGE: `Thunar Beta || ${versionname}`, // Your bot status message
+        MESSAGE: `Thunar Beta ・ 𓆩🐺𓆪  ${betaversion}`, // Your bot status message
     },
 
     STATS: {
@@ -123,14 +123,14 @@ module.exports = {
             UP_VOTE: "⬆️",
             DOWN_VOTE: "⬇️",
         },
-        DEFAULT_EMBED: "#2f3136",
-        APPROVED_EMBED: "#2f3136",
-        DENIED_EMBED: "#2f3136",
+        DEFAULT_EMBED: "#2b2d31",
+        APPROVED_EMBED: "#2b2d31",
+        DENIED_EMBED: "#2b2d31",
     },
 
     TICKET: {
         ENABLED: true,
-        CREATE_EMBED: "#2f3136",
-        CLOSE_EMBED: "#2f3136",
+        CREATE_EMBED: "#2b2d31",
+        CLOSE_EMBED: "#2b2d31",
     },
 };
