@@ -2,6 +2,7 @@ const {getSettings} = require("@schemas/Guild");
 const {commandHandler, contextHandler, statsHandler, suggestionHandler, ticketHandler} = require("@src/handlers");
 const {InteractionType, EmbedBuilder} = require("discord.js");
 const Press = require("../../../models/Supress");
+const Sleep = require("../../../models/BotSleep");
 
 /**
  * @param {import('@src/structures').BotClient} client

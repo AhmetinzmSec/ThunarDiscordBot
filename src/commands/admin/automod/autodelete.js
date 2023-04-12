@@ -1,4 +1,5 @@
 const {ApplicationCommandOptionType} = require("discord.js");
+const Sleep = require("@root/models/BotSleep");
 
 /**
  * @type {import("@structures/Command")}
@@ -159,6 +160,23 @@ module.exports = {
     },
 
     async interactionRun(interaction, data) {
+
+        if (await Sleep.findOne(
+            {
+                GuildID: interaction.guildId,
+            }
+        )) {
+
+            const SG = await Sleep.findOne({GuildID: interaction.guildId});
+
+            if (interaction.guildId == SG.GuildID) {
+
+                return interaction.reply({content: "Thunar asleep", ephemeral: true});
+
+            }
+
+        }
+
         const sub = interaction.options.getSubcommand();
         const settings = data.settings;
         let response;

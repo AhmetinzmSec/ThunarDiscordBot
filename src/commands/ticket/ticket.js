@@ -222,18 +222,6 @@ module.exports = {
 
     async interactionRun(interaction, data) {
 
-        if (await Beta.findOne({UserID: interaction.member.id})) {
-            if (interaction.member.id !== "801006452416184330") {
-
-                return interaction.followUp(`You must have access to the **${preversion}** version to use this command. The version you have access to: **${betaversion}**`)
-
-            }
-        } else {
-
-            return interaction.followUp(`You must have access to the **${preversion}** version to use this command. The version you have access to: **${version}**`)
-
-        }
-
         const sub = interaction.options.getSubcommand();
         let response;
 

@@ -1,0 +1,229 @@
+{"level":30,"time":1680902719822,"pid":10080,"hostname":"Hypnotist","msg":"Validating config file and environment variables"}
+{"level":30,"time":1680902719876,"pid":10080,"hostname":"Hypnotist","msg":"Loading commands..."}
+{"level":20,"time":1680902720517,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1680902720519,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1680902720521,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1680902720539,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1680902720542,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1680902720550,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1680902720551,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1680902720553,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1680902720557,"pid":10080,"hostname":"Hypnotist","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1680902720558,"pid":10080,"hostname":"Hypnotist","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1680902720578,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1680902720580,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1680902720582,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1680902720583,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1680902720584,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1680902720585,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1680902720587,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1680902720588,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1680902720589,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1680902720591,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1680902720593,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1680902720595,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1680902720598,"pid":10080,"hostname":"Hypnotist","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1680902720599,"pid":10080,"hostname":"Hypnotist","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1680902720610,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1680902720612,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1680902720613,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1680902720616,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1680902720617,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1680902720619,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1680902720620,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1680902720621,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1680902720622,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1680902720623,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1680902720624,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1680902720625,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1680902720626,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1680902720627,"pid":10080,"hostname":"Hypnotist","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1680902720639,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1680902720640,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1680902720641,"pid":10080,"hostname":"Hypnotist","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1680902720683,"pid":10080,"hostname":"Hypnotist","msg":"Loaded 103 commands"}
+{"level":30,"time":1680902720683,"pid":10080,"hostname":"Hypnotist","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1680902720683,"pid":10080,"hostname":"Hypnotist","msg":"Loading contexts..."}
+{"level":30,"time":1680902720685,"pid":10080,"hostname":"Hypnotist","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1680902720685,"pid":10080,"hostname":"Hypnotist","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1680902720685,"pid":10080,"hostname":"Hypnotist","msg":"Loading events..."}
+{"level":30,"time":1680902720732,"pid":10080,"hostname":"Hypnotist","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1680902721195,"pid":10080,"hostname":"Hypnotist","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1680902721195,"pid":10080,"hostname":"Hypnotist","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1680902723223,"pid":10080,"hostname":"Hypnotist","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1680902724680,"pid":10080,"hostname":"Hypnotist","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1680902724681,"pid":10080,"hostname":"Hypnotist","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1680902724992,"pid":10080,"hostname":"Hypnotist","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1680902725510,"pid":10080,"hostname":"Hypnotist","msg":"Successfully registered interactions"}
+{"level":30,"time":1680902789616,"pid":19136,"hostname":"Hypnotist","msg":"Validating config file and environment variables"}
+{"level":30,"time":1680902789669,"pid":19136,"hostname":"Hypnotist","msg":"Loading commands..."}
+{"level":20,"time":1680902790269,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1680902790270,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1680902790271,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1680902790273,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1680902790274,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1680902790281,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1680902790281,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1680902790283,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1680902790285,"pid":19136,"hostname":"Hypnotist","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1680902790285,"pid":19136,"hostname":"Hypnotist","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1680902790297,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1680902790299,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1680902790300,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1680902790301,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1680902790301,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1680902790302,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1680902790303,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1680902790303,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1680902790304,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1680902790305,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1680902790306,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1680902790307,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1680902790309,"pid":19136,"hostname":"Hypnotist","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1680902790310,"pid":19136,"hostname":"Hypnotist","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1680902790317,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1680902790319,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1680902790320,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1680902790321,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1680902790322,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1680902790323,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1680902790324,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1680902790324,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1680902790325,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1680902790326,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1680902790327,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1680902790327,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1680902790328,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1680902790328,"pid":19136,"hostname":"Hypnotist","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1680902790338,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1680902790338,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1680902790339,"pid":19136,"hostname":"Hypnotist","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1680902790372,"pid":19136,"hostname":"Hypnotist","msg":"Loaded 103 commands"}
+{"level":30,"time":1680902790372,"pid":19136,"hostname":"Hypnotist","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1680902790372,"pid":19136,"hostname":"Hypnotist","msg":"Loading contexts..."}
+{"level":30,"time":1680902790373,"pid":19136,"hostname":"Hypnotist","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1680902790374,"pid":19136,"hostname":"Hypnotist","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1680902790374,"pid":19136,"hostname":"Hypnotist","msg":"Loading events..."}
+{"level":30,"time":1680902790419,"pid":19136,"hostname":"Hypnotist","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1680902790915,"pid":19136,"hostname":"Hypnotist","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1680902790915,"pid":19136,"hostname":"Hypnotist","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1680902792889,"pid":19136,"hostname":"Hypnotist","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1680902794378,"pid":19136,"hostname":"Hypnotist","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1680902794378,"pid":19136,"hostname":"Hypnotist","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1680902794651,"pid":19136,"hostname":"Hypnotist","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1680902795171,"pid":19136,"hostname":"Hypnotist","msg":"Successfully registered interactions"}
+{"level":30,"time":1680910577889,"pid":21080,"hostname":"Hypnotist","msg":"Validating config file and environment variables"}
+{"level":30,"time":1680910577967,"pid":21080,"hostname":"Hypnotist","msg":"Loading commands..."}
+{"level":20,"time":1680910578866,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1680910578868,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1680910578870,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1680910578873,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1680910578876,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1680910578885,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1680910578886,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1680910578888,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1680910578891,"pid":21080,"hostname":"Hypnotist","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1680910578892,"pid":21080,"hostname":"Hypnotist","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1680910578924,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1680910578926,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1680910578928,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1680910578929,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1680910578930,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1680910578931,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1680910578932,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1680910578933,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1680910578934,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1680910578936,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1680910578937,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1680910578939,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1680910578942,"pid":21080,"hostname":"Hypnotist","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1680910578946,"pid":21080,"hostname":"Hypnotist","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1680910578955,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1680910578958,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1680910578959,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1680910578962,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1680910578964,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1680910578965,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1680910578966,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1680910578967,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1680910578968,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1680910578969,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1680910578970,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1680910578971,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1680910578971,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1680910578972,"pid":21080,"hostname":"Hypnotist","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1680910578981,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1680910578981,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1680910578983,"pid":21080,"hostname":"Hypnotist","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1680910579039,"pid":21080,"hostname":"Hypnotist","msg":"Loaded 103 commands"}
+{"level":30,"time":1680910579039,"pid":21080,"hostname":"Hypnotist","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1680910579039,"pid":21080,"hostname":"Hypnotist","msg":"Loading contexts..."}
+{"level":30,"time":1680910579043,"pid":21080,"hostname":"Hypnotist","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1680910579043,"pid":21080,"hostname":"Hypnotist","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1680910579043,"pid":21080,"hostname":"Hypnotist","msg":"Loading events..."}
+{"level":30,"time":1680910579156,"pid":21080,"hostname":"Hypnotist","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1680910579611,"pid":21080,"hostname":"Hypnotist","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1680910579611,"pid":21080,"hostname":"Hypnotist","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1680910581617,"pid":21080,"hostname":"Hypnotist","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1680910582970,"pid":21080,"hostname":"Hypnotist","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1680910582970,"pid":21080,"hostname":"Hypnotist","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1680910583638,"pid":21080,"hostname":"Hypnotist","msg":"Successfully registered interactions"}
+{"level":30,"time":1680910584664,"pid":21080,"hostname":"Hypnotist","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1680958080230,"pid":3848,"hostname":"Hypnotist","msg":"Validating config file and environment variables"}
+{"level":30,"time":1680958080315,"pid":3848,"hostname":"Hypnotist","msg":"Loading commands..."}
+{"level":20,"time":1680958081260,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1680958081263,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1680958081266,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1680958081269,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1680958081272,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1680958081314,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1680958081323,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1680958081336,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1680958081340,"pid":3848,"hostname":"Hypnotist","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1680958081342,"pid":3848,"hostname":"Hypnotist","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1680958081377,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1680958081378,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1680958081381,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1680958081382,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1680958081383,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1680958081384,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1680958081385,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1680958081386,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1680958081386,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1680958081388,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1680958081390,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1680958081392,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1680958081396,"pid":3848,"hostname":"Hypnotist","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1680958081403,"pid":3848,"hostname":"Hypnotist","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1680958081413,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1680958081416,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1680958081417,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1680958081421,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1680958081421,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1680958081423,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1680958081424,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1680958081425,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1680958081426,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1680958081427,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1680958081428,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1680958081430,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1680958081431,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1680958081432,"pid":3848,"hostname":"Hypnotist","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1680958081440,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1680958081441,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1680958081444,"pid":3848,"hostname":"Hypnotist","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1680958081486,"pid":3848,"hostname":"Hypnotist","msg":"Loaded 103 commands"}
+{"level":30,"time":1680958081486,"pid":3848,"hostname":"Hypnotist","msg":"Loaded 84 slash commands"}
+{"level":30,"time":1680958081486,"pid":3848,"hostname":"Hypnotist","msg":"Loading contexts..."}
+{"level":30,"time":1680958081488,"pid":3848,"hostname":"Hypnotist","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1680958081488,"pid":3848,"hostname":"Hypnotist","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1680958081489,"pid":3848,"hostname":"Hypnotist","msg":"Loading events..."}
+{"level":30,"time":1680958081537,"pid":3848,"hostname":"Hypnotist","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1680958082150,"pid":3848,"hostname":"Hypnotist","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1680958082151,"pid":3848,"hostname":"Hypnotist","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1680958084139,"pid":3848,"hostname":"Hypnotist","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1680958085845,"pid":3848,"hostname":"Hypnotist","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1680958085845,"pid":3848,"hostname":"Hypnotist","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1680958086045,"pid":3848,"hostname":"Hypnotist","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1680958086575,"pid":3848,"hostname":"Hypnotist","msg":"Successfully registered interactions"}
+{"level":50,"time":1680959193442,"pid":3848,"hostname":"Hypnotist","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (C:\\Users\\picad\\OneDrive\\Belgeler\\GitHub Repos\\ThunarDiscordBot\\src\\events\\member\\guildMemberAdd.js:19:56)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}

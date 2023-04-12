@@ -1,6 +1,6 @@
 const { model, Schema } = require('mongoose')
 
-module.exports = model("SellepingBot", new Schema({
+module.exports = model("SleepingBot", new Schema({
     GuildID: String,
     UserID: String
 }))

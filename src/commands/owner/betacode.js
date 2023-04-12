@@ -59,18 +59,24 @@ module.exports = {
         const hersey = random(false, 32)
 
         const codke = hersey;
+
+        const beta = await BetaCode.findOne({UserID: target})
+
         // Embed'lar ayarlandı
         const captcha_embed = new EmbedBuilder()
             .setColor(EMBED_COLORS.BOT_EMBED)
             .setTitle("📜 Successful")
             .setDescription(`New code generated: ${codke}`)
 
-        const beta = await BetaCode.findOne({UserID: target})
-
         if (await BetaCode.findOne({UserID: target})) {
 
+            const activecode = new EmbedBuilder()
+                .setColor(EMBED_COLORS.BOT_EMBED)
+                .setTitle("📜 There is a valid code for the member")
+                .setDescription(`A code has already been created: \n\n ・ 𓆩 ${beta.Code} 𓆪`)
+
             return interaction.followUp({
-                content: `A code has already been created for the member: **${beta.Code}**`,
+                embeds: [activecode],
                 ephemeral: true
             })
 
