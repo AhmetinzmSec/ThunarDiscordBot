@@ -1,0 +1,123 @@
+{"level":30,"time":1684524174446,"pid":6792,"hostname":"picadro-dev","msg":"Validating config file and environment variables"}
+{"level":30,"time":1684524174474,"pid":6792,"hostname":"picadro-dev","msg":"Loading commands..."}
+{"level":20,"time":1684524174773,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1684524174774,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1684524174774,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1684524174775,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1684524174776,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1684524174783,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1684524174784,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1684524174784,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1684524174785,"pid":6792,"hostname":"picadro-dev","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1684524174786,"pid":6792,"hostname":"picadro-dev","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1684524174794,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1684524174794,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1684524174795,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1684524174796,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1684524174796,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1684524174796,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1684524174797,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1684524174797,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1684524174797,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1684524174798,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1684524174798,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1684524174799,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1684524174800,"pid":6792,"hostname":"picadro-dev","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1684524174801,"pid":6792,"hostname":"picadro-dev","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1684524174803,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1684524174804,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1684524174804,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1684524174805,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1684524174805,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1684524174806,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1684524174807,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1684524174807,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1684524174808,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1684524174808,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1684524174808,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1684524174809,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1684524174809,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1684524174809,"pid":6792,"hostname":"picadro-dev","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1684524174813,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1684524174813,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1684524174814,"pid":6792,"hostname":"picadro-dev","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1684524174835,"pid":6792,"hostname":"picadro-dev","msg":"Loaded 105 commands"}
+{"level":30,"time":1684524174835,"pid":6792,"hostname":"picadro-dev","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1684524174836,"pid":6792,"hostname":"picadro-dev","msg":"Loading contexts..."}
+{"level":30,"time":1684524174836,"pid":6792,"hostname":"picadro-dev","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1684524174836,"pid":6792,"hostname":"picadro-dev","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1684524174836,"pid":6792,"hostname":"picadro-dev","msg":"Loading events..."}
+{"level":30,"time":1684524174864,"pid":6792,"hostname":"picadro-dev","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1684524175422,"pid":6792,"hostname":"picadro-dev","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1684524175422,"pid":6792,"hostname":"picadro-dev","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1684524177358,"pid":6792,"hostname":"picadro-dev","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1684524178925,"pid":6792,"hostname":"picadro-dev","msg":"Logged in as Thunar Beta#9964! (988089532970827787)"}
+{"level":30,"time":1684524178925,"pid":6792,"hostname":"picadro-dev","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1684524179399,"pid":6792,"hostname":"picadro-dev","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1684524179955,"pid":6792,"hostname":"picadro-dev","msg":"Successfully registered interactions"}
+{"level":30,"time":1684524322743,"pid":8092,"hostname":"picadro-dev","msg":"Validating config file and environment variables"}
+{"level":30,"time":1684524322767,"pid":8092,"hostname":"picadro-dev","msg":"Loading commands..."}
+{"level":20,"time":1684524322978,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1684524322979,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1684524322979,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1684524322980,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1684524322981,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1684524322988,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1684524322988,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1684524322989,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1684524322990,"pid":8092,"hostname":"picadro-dev","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1684524322991,"pid":8092,"hostname":"picadro-dev","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1684524322996,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1684524322997,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1684524322997,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1684524322998,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1684524322998,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1684524322998,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1684524322998,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1684524322999,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1684524322999,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1684524322999,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1684524323000,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1684524323000,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1684524323001,"pid":8092,"hostname":"picadro-dev","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1684524323002,"pid":8092,"hostname":"picadro-dev","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1684524323004,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command bassboost. Category MUSIC is disabled"}
+{"level":20,"time":1684524323005,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command loop. Category MUSIC is disabled"}
+{"level":20,"time":1684524323005,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command lyric. Category MUSIC is disabled"}
+{"level":20,"time":1684524323006,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command np. Category MUSIC is disabled"}
+{"level":20,"time":1684524323006,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command pause. Category MUSIC is disabled"}
+{"level":20,"time":1684524323007,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command play. Category MUSIC is disabled"}
+{"level":20,"time":1684524323007,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command queue. Category MUSIC is disabled"}
+{"level":20,"time":1684524323008,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command resume. Category MUSIC is disabled"}
+{"level":20,"time":1684524323008,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command search. Category MUSIC is disabled"}
+{"level":20,"time":1684524323008,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command seek. Category MUSIC is disabled"}
+{"level":20,"time":1684524323009,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command shuffle. Category MUSIC is disabled"}
+{"level":20,"time":1684524323009,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command skip. Category MUSIC is disabled"}
+{"level":20,"time":1684524323009,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command stop. Category MUSIC is disabled"}
+{"level":20,"time":1684524323010,"pid":8092,"hostname":"picadro-dev","msg":"Skipping Command volume. Category MUSIC is disabled"}
+{"level":20,"time":1684524323013,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1684524323013,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1684524323014,"pid":8092,"hostname":"picadro-dev","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1684524323029,"pid":8092,"hostname":"picadro-dev","msg":"Loaded 105 commands"}
+{"level":30,"time":1684524323029,"pid":8092,"hostname":"picadro-dev","msg":"Loaded 86 slash commands"}
+{"level":30,"time":1684524323029,"pid":8092,"hostname":"picadro-dev","msg":"Loading contexts..."}
+{"level":30,"time":1684524323030,"pid":8092,"hostname":"picadro-dev","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1684524323030,"pid":8092,"hostname":"picadro-dev","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1684524323030,"pid":8092,"hostname":"picadro-dev","msg":"Loading events..."}
+{"level":30,"time":1684524323059,"pid":8092,"hostname":"picadro-dev","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1684524323535,"pid":8092,"hostname":"picadro-dev","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1684524323536,"pid":8092,"hostname":"picadro-dev","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1684524325460,"pid":8092,"hostname":"picadro-dev","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1684524350314,"pid":8092,"hostname":"picadro-dev","msg":"Logged in as Thunar#8719! (963406060150984764)"}
+{"level":30,"time":1684524350314,"pid":8092,"hostname":"picadro-dev","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1684524350728,"pid":8092,"hostname":"picadro-dev","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1684524351977,"pid":8092,"hostname":"picadro-dev","err":{"type":"Error","message":"Socket connection timeout","stack":"Error [ERR_SOCKET_CONNECTION_TIMEOUT]: Socket connection timeout\n    at new NodeError (node:internal/errors:399:5)\n    at internalConnectMultiple (node:net:1099:20)\n    at Timeout.internalConnectMultipleTimeout (node:net:1638:3)\n    at listOnTimeout (node:internal/timers:575:11)\n    at process.processTimers (node:internal/timers:514:7)","code":"ERR_SOCKET_CONNECTION_TIMEOUT"},"msg":"Client Error: Socket connection timeout"}
+{"level":50,"time":1684524806532,"pid":8092,"hostname":"picadro-dev","err":{"type":"Error","message":"Socket connection timeout","stack":"Error [ERR_SOCKET_CONNECTION_TIMEOUT]: Socket connection timeout\n    at new NodeError (node:internal/errors:399:5)\n    at internalConnectMultiple (node:net:1099:20)\n    at Timeout.internalConnectMultipleTimeout (node:net:1638:3)\n    at listOnTimeout (node:internal/timers:575:11)\n    at process.processTimers (node:internal/timers:514:7)","code":"ERR_SOCKET_CONNECTION_TIMEOUT"},"msg":"Unhandled exception: Socket connection timeout"}
+{"level":50,"time":1684528707496,"pid":8092,"hostname":"picadro-dev","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/GitHub/ThunarDiscordBot/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1684528732449,"pid":8092,"hostname":"picadro-dev","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/GitHub/ThunarDiscordBot/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1684529031014,"pid":8092,"hostname":"picadro-dev","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/GitHub/ThunarDiscordBot/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1684529550993,"pid":8092,"hostname":"picadro-dev","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/GitHub/ThunarDiscordBot/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1684530887275,"pid":8092,"hostname":"picadro-dev","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/GitHub/ThunarDiscordBot/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1684534239361,"pid":8092,"hostname":"picadro-dev","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/GitHub/ThunarDiscordBot/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1684534446271,"pid":8092,"hostname":"picadro-dev","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/GitHub/ThunarDiscordBot/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
+{"level":50,"time":1684535257972,"pid":8092,"hostname":"picadro-dev","err":{"type":"TypeError","message":"Cannot read properties of null (reading 'ChannelID')","stack":"TypeError: Cannot read properties of null (reading 'ChannelID')\n    at module.exports (/home/picadro/Documents/GitHub/ThunarDiscordBot/src/events/member/guildMemberAdd.js:19:56)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"},"msg":"Client Error: Cannot read properties of null (reading 'ChannelID')"}
