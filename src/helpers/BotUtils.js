@@ -6,7 +6,7 @@ module.exports = class BotUtils {
    * Check if the bot is up to date
    */
   static async checkForUpdates() {
-    const response = await getJson("https://github.com/AhmetinzmSec/ThunarDiscordBot");
+    const response = await getJson("https://api.github.com/repos/AhmetinzmSec/ThunarDiscordBot/releases/latest");
     if (!response.success) return error("VersionCheck: Failed to check for bot updates");
     if (response.data) {
       if (
@@ -15,7 +15,7 @@ module.exports = class BotUtils {
         success("VersionCheck: Your discord bot is up to date");
       } else {
         warn(`VersionCheck: ${response.data.tag_name} update is available`);
-        warn("Update: https://github.com/AhmetinzmSec/thunar/releases/tag/thunar");
+        warn("Update: https://github.com/AhmetinzmSec/ThunarDiscordBot/releases/");
       }
     }
   }
